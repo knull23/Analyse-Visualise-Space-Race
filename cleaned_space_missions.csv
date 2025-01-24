@@ -1,0 +1,965 @@
+Unnamed: 0.1,Organisation,Location,Date,Detail,Rocket_Status,Price,Mission_Status
+0,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 07, 2020 05:12 UTC",Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,StatusActive,50.0,Success
+1,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 06, 2020 04:01 UTC",Long March 2D | Gaofen-9 04 & Q-SAT,StatusActive,29.75,Success
+3,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Jul 30, 2020 21:25 UTC",Proton-M/Briz-M | Ekspress-80 & Ekspress-103,StatusActive,65.0,Success
+4,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jul 30, 2020 11:50 UTC",Atlas V 541 | Perseverance,StatusActive,145.0,Success
+5,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Jul 25, 2020 03:13 UTC","Long March 4B | Ziyuan-3 03, Apocalypse-10 & NJU-HKU 1",StatusActive,64.68,Success
+6,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Jul 23, 2020 14:26 UTC",Soyuz 2.1a | Progress MS-15,StatusActive,48.5,Success
+8,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jul 20, 2020 21:30 UTC",Falcon 9 Block 5 | ANASIS-II,StatusActive,50.0,Success
+9,JAXA,"LA-Y1, Tanegashima Space Center, Japan","Sun Jul 19, 2020 21:58 UTC",H-IIA 202 | Hope Mars Mission,StatusActive,90.0,Success
+10,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Wed Jul 15, 2020 13:46 UTC",Minotaur IV | NROL-129,StatusActive,46.0,Success
+11,ExPace,"Site 95, Jiuquan Satellite Launch Center, China","Fri Jul 10, 2020 04:17 UTC","Kuaizhou 11 | Jilin-1 02E, CentiSpace-1 S2",StatusActive,28.3,Failure
+12,CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Jul 09, 2020 12:11 UTC",Long March 3B/E | Apstar-6D,StatusActive,29.15,Success
+14,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Jul 04, 2020 23:44 UTC",Long March 2D | Shiyan-6 02,StatusActive,29.75,Success
+15,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Sat Jul 04, 2020 21:19 UTC",Electron/Curie | Pics Or It Didn??¦t Happen,StatusActive,7.5,Failure
+16,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Jul 03, 2020 03:10 UTC",Long March 4B | Gaofen Duomo & BY-02,StatusActive,64.68,Success
+17,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Jun 30, 2020 20:10 UTC",Falcon 9 Block 5 | GPS III SV03,StatusActive,50.0,Success
+18,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jun 23, 2020 01:43 UTC",Long March 3B/E | Beidou-3 G3,StatusActive,29.15,Success
+19,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Jun 17, 2020 07:19 UTC","Long March 2D | Gaofen-9 03, Pixing III A & HEAD-5",StatusActive,29.75,Success
+20,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Jun 13, 2020 09:21 UTC",Falcon 9 Block 5 | Starlink V1 L8 & SkySat 16 to 18,StatusActive,50.0,Success
+21,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Sat Jun 13, 2020 05:12 UTC",Electron/Curie | Don't stop me now!,StatusActive,7.5,Success
+22,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Jun 10, 2020 18:31 UTC",Long March 2C | Haiyang-1D,StatusActive,30.8,Success
+23,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Jun 04, 2020 01:25 UTC",Falcon 9 Block 5 | Starlink V1 L7,StatusActive,50.0,Success
+24,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun May 31, 2020 08:53 UTC",Long March 2D | Gaofen-9-02 & HEAD-4,StatusActive,29.75,Success
+25,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat May 30, 2020 19:22 UTC",Falcon 9 Block 5 | SpaceX Demo-2,StatusActive,50.0,Success
+26,CASC,"Xichang Satellite Launch Center, China","Fri May 29, 2020 20:13 UTC",Long March 11 | XJS-G and XJS-H,StatusActive,5.3,Success
+27,Virgin Orbit,"Cosmic Girl, Mojave Air and Space Port, California, USA","Mon May 25, 2020 19:50 UTC",LauncherOne | Demo Flight,StatusActive,12.0,Failure
+29,MHI,"LA-Y2, Tanegashima Space Center, Japan","Wed May 20, 2020 17:31 UTC",H-IIB | HTV-9,StatusRetired,112.5,Success
+30,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sun May 17, 2020 13:14 UTC",Atlas V 501 | OTV-6 (USSF-7),StatusActive,120.0,Success
+33,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Apr 25, 2020 01:51 UTC",Soyuz 2.1a | Progress MS-14,StatusActive,48.5,Success
+34,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Apr 22, 2020 19:30 UTC",Falcon 9 Block 5 | Starlink V1 L6,StatusActive,50.0,Success
+36,CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Apr 09, 2020 11:46 UTC",Long March 3B/E | Nusantara Dua,StatusActive,29.15,Failure
+37,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Apr 09, 2020 08:05 UTC",Soyuz 2.1a | Soyuz MS-16,StatusActive,48.5,Success
+38,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Mar 26, 2020 20:18 UTC",Atlas V 551 | AEHF 6,StatusActive,153.0,Success
+39,CASC,"LC-3, Xichang Satellite Launch Center, China","Tue Mar 24, 2020 03:43 UTC",Long March 2C | Yaogan-30-06,StatusActive,30.8,Success
+40,Arianespace,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Mar 21, 2020 17:06 UTC",Soyuz 2.1b/Fregat | OneWeb #3,StatusActive,48.5,Success
+41,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Mar 18, 2020 12:16 UTC",Falcon 9 Block 5 | Starlink V1 L5,StatusActive,50.0,Success
+44,CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Mar 09, 2020 11:55 UTC",Long March 3B/E | Beidou-3 G2,StatusActive,29.15,Success
+45,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Mar 07, 2020 04:50 UTC",Falcon 9 Block 5 | CRS-20,StatusActive,50.0,Success
+46,VKS RF,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Feb 20, 2020 08:24 UTC",Soyuz 2.1a/Fregat-M | Meridian-M n†­19L,StatusActive,48.5,Success
+47,CASC,"LC-3, Xichang Satellite Launch Center, China","Wed Feb 19, 2020 21:07 UTC",Long March 2D | XJS-C to F,StatusActive,29.75,Success
+48,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Feb 18, 2020 22:18 UTC",Ariane 5 ECA | JCSAT-17 & GEO-KOMPSAT 2B,StatusActive,200.0,Success
+49,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Feb 17, 2020 15:05 UTC",Falcon 9 Block 5 | Starlink V1 L4,StatusActive,50.0,Success
+50,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Feb 15, 2020 20:21 UTC",Antares 230+ | CRS NG-13,StatusActive,85.0,Success
+51,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Feb 10, 2020 04:03 UTC",Atlas V 411 | Solar Orbiter,StatusActive,115.0,Success
+53,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Feb 09, 2020 01:34 UTC",H-IIA 202 | IGS-Optical 7,StatusActive,90.0,Success
+54,Arianespace,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Feb 06, 2020 21:42 UTC",Soyuz 2.1b/Fregat | OneWeb #2,StatusActive,48.5,Success
+55,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Fri Jan 31, 2020 02:56 UTC",Electron/Curie | Birds of a Feather / NROL-151,StatusActive,7.5,Success
+56,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jan 29, 2020 14:06 UTC",Falcon 9 Block 5 | Starlink V1 L3,StatusActive,50.0,Success
+57,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jan 19, 2020 15:30 UTC",Falcon 9 Block 5 | Crew Dragon Inflight Abort Test,StatusActive,50.0,Success
+58,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jan 16, 2020 21:05 UTC",Ariane 5 ECA | Eutelsat Konnect BB4A & GSAT-30,StatusActive,200.0,Success
+60,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Jan 15, 2020 02:53 UTC",Long March 2D | Jilin-1 Wideband 01 & ??uSat-7/8,StatusActive,29.75,Success
+61,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jan 07, 2020 15:20 UTC",Long March 3B/E | TJSW-5,StatusActive,29.15,Success
+62,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Jan 07, 2020 02:19 UTC",Falcon 9 Block 5 | Starlink V1 L2,StatusActive,50.0,Success
+64,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Dec 26, 2019 23:11 UTC","Rokot/Briz KM | Gonets-M ???24, 25, 26 [block-15] & Blits-M1",StatusRetired,41.8,Success
+65,Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Dec 24, 2019 12:03 UTC",Proton-M/DM-3 | Elektro-L n†­3,StatusActive,65.0,Success
+67,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Dec 20, 2019 03:22 UTC","Long March 4B | CBERS-4A, ETRSS-1 & Others",StatusActive,64.68,Success
+69,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Dec 17, 2019 00:10 UTC",Falcon 9 Block 5 | JCSAT-18 / Kacific-1,StatusActive,50.0,Success
+72,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 11, 2019 09:55 UTC",PSLV-QL | RISAT 2BR1,StatusActive,21.0,Success
+73,VKS RF,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Dec 11, 2019 08:54 UTC",Soyuz 2.1b/Fregat | Cosmos 2544,StatusActive,48.5,Success
+76,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Dec 06, 2019 09:34 UTC",Soyuz 2.1a | Progress MS-13 (74P),StatusActive,48.5,Success
+77,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Fri Dec 06, 2019 08:18 UTC",Electron/Curie | Running Out Of Fingers,StatusActive,7.5,Success
+78,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Dec 05, 2019 17:29 UTC",Falcon 9 Block 5 | CRS-19,StatusActive,50.0,Success
+79,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Nov 27, 2019 23:52 UTC",Long March 4C | Gaofen-12,StatusActive,64.68,Success
+80,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Nov 27, 2019 03:58 UTC",PSLV-XL | Cartosat-3 & Rideshares,StatusActive,31.0,Success
+81,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Nov 26, 2019 21:23 UTC",Ariane 5 ECA | Inmarsat 5 F5 & TIBA-1,StatusActive,200.0,Success
+87,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Nov 11, 2019 14:56 UTC",Falcon 9 Block 5 | Starlink V1 L1,StatusActive,50.0,Success
+88,CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Nov 04, 2019 17:43 UTC",Long March 3B/E | Beidou-3 IGSO-3,StatusActive,29.15,Success
+89,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sun Nov 03, 2019 03:22 UTC",Long March 4B | Gaofen-7,StatusActive,64.68,Success
+90,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Nov 02, 2019 13:59 UTC",Antares 230+ | CRS NG-12,StatusActive,85.0,Success
+92,CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Oct 17, 2019 15:21 UTC",Long March 3B/E | TJSW-4,StatusActive,29.15,Success
+93,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Thu Oct 17, 2019 01:22 UTC",Electron/Curie | As The Crow Flies,StatusActive,7.5,Success
+94,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA","Fri Oct 11, 2019 01:59 UTC",Pegasus XL | ICON,StatusActive,40.0,Success
+95,ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Oct 09, 2019 10:17 UTC",Proton-M/Briz-M | Eutelsat 5 West B & MEV-1,StatusActive,65.0,Success
+96,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Fri Oct 04, 2019 18:51 UTC",Long March 4C | Gaofen 10 (Replacement),StatusActive,64.68,Success
+97,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Sep 26, 2019 07:46 UTC",Soyuz 2.1b/Fregat | Cosmos 2541,StatusActive,48.5,Success
+99,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Sep 25, 2019 00:54 UTC",Long March 2D | Yunhai-1-02,StatusActive,29.75,Success
+100,MHI,"LA-Y2, Tanegashima Space Center, Japan","Tue Sep 24, 2019 16:05 UTC",H-IIB | HTV-8,StatusRetired,112.5,Success
+102,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Thu Sep 19, 2019 06:42 UTC",Long March 11 | Zhuhai-1 Group 03,StatusActive,5.3,Success
+103,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Thu Sep 12, 2019 03:26 UTC","Long March 4B | Ziyuan-2D, BNU-1 & Taurus-1",StatusActive,64.68,Success
+105,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Aug 30, 2019 14:00 UTC",Rokot/Briz KM | Cosmos 2540,StatusRetired,41.8,Success
+107,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Thu Aug 22, 2019 13:06 UTC","Delta IV Medium+ (4,2) | GPS III SV02",StatusRetired,164.0,Success
+108,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Aug 22, 2019 03:38 UTC",Soyuz 2.1a | Soyuz MS-14 (60S),StatusActive,48.5,Success
+109,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Mon Aug 19, 2019 12:12 UTC","Electron/Curie | Look Ma, No Hands!",StatusActive,7.5,Success
+110,CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Aug 19, 2019 12:03 UTC",Long March 3B/E | ChinaSat 18,StatusActive,29.15,Success
+111,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Sat Aug 17, 2019 04:11 UTC",Jielong-1 | Tianqi-4 & Others,StatusActive,7.5,Success
+112,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Aug 08, 2019 10:13 UTC",Atlas V 551 | AEHF 5,StatusActive,153.0,Success
+113,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Aug 06, 2019 23:23 UTC",Falcon 9 Block 5 | AMOS-17,StatusActive,50.0,Success
+114,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Aug 06, 2019 19:30 UTC",Ariane 5 ECA | EDRS-C/HYLAS 3 & Intelsat 39,StatusActive,200.0,Success
+115,Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Aug 05, 2019 21:56 UTC",Proton-M/Briz-M | Cosmos 2539,StatusActive,65.0,Success
+116,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jul 31, 2019 12:10 UTC",Soyuz 2.1a | Progress MS-12,StatusActive,48.5,Success
+117,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jul 30, 2019 05:56 UTC",Soyuz 2.1a/Fregat-M | Meridian-M n†­18L,StatusActive,48.5,Success
+118,CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Jul 26, 2019 03:57 UTC",Long March 2C | Yaogan-30-05,StatusActive,30.8,Success
+119,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Jul 25, 2019 22:01 UTC",Falcon 9 Block 5 | CRS-18,StatusActive,50.0,Success
+121,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 22, 2019 09:13 UTC",GSLV Mk III | Chandrayaan-2 lunar mission,StatusActive,62.0,Success
+123,Roscosmos,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Jul 13, 2019 12:31 UTC",Proton-M/DM-3 | Spektr-RG,StatusActive,65.0,Success
+124,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Jul 11, 2019 01:53 UTC",Vega | Falcon Eye 1,StatusActive,37.0,Failure
+128,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Sat Jun 29, 2019 04:30 UTC",Electron/Curie | Make it Rain,StatusActive,7.5,Success
+129,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jun 25, 2019 06:30 UTC",Falcon Heavy | STP-2,StatusActive,90.0,Success
+130,CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Jun 24, 2019 18:09 UTC",Long March 3B/E | Beidou-3 IGSO-2,StatusActive,29.15,Success
+131,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jun 20, 2019 21:43 UTC",Ariane 5 ECA | Eutelsat 7C &  AT&T T-16,StatusActive,200.0,Success
+132,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Wed Jun 12, 2019 14:17 UTC",Falcon 9 Block 5 | RADARSAT Constellation,StatusActive,50.0,Success
+133,CASC,"Tai Rui Barge, Yellow Sea","Wed Jun 05, 2019 04:06 UTC",Long March 11H | Jilin-1 & Others,StatusActive,5.3,Success
+134,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu May 30, 2019 17:42 UTC",Proton-M/Briz-M | Yamal-601,StatusActive,65.0,Success
+136,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 24, 2019 02:30 UTC",Falcon 9 Block 5 | Starlink V0.9,StatusActive,50.0,Success
+137,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed May 22, 2019 22:55 UTC",Long March 4C | Yaogan Weixing-33,StatusActive,64.68,Failure
+138,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed May 22, 2019 00:00 UTC",PSLV-CA | RISAT-2B,StatusActive,21.0,Success
+140,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Sun May 05, 2019 06:00 UTC",Electron/Curie | That's a Funny Looking Cactus,StatusActive,7.5,Success
+141,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat May 04, 2019 06:48 UTC",Falcon 9 Block 5 | CRS-17,StatusActive,50.0,Success
+143,CASC,"Taiyuan Satellite Launch Center, China","Mon Apr 29, 2019 22:52 UTC",Long March 4B | Tianhui-2 Group 01,StatusActive,64.68,Success
+144,CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Apr 20, 2019 14:30 UTC",Long March 3B/E | Beidou-3 IGSO-1,StatusActive,29.15,Success
+145,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Wed Apr 17, 2019 20:46 UTC",Antares 230 | CRS NG-11,StatusRetired,85.0,Success
+146,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 11, 2019 22:35 UTC",Falcon Heavy | ArabSat 6A,StatusActive,90.0,Success
+148,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Apr 04, 2019 11:01 UTC",Soyuz 2.1a | Progress MS-11 (72P),StatusActive,48.5,Success
+149,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Apr 01, 2019 03:57 UTC",PSLV-QL | EMISAT & Rideshares,StatusActive,21.0,Success
+150,CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Mar 31, 2019 15:51 UTC",Long March 3B/E | Tianlian-2,StatusActive,29.15,Success
+151,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Thu Mar 28, 2019 23:27 UTC",Electron/Curie | Two Thumbs Up,StatusActive,7.5,Success
+153,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri Mar 22, 2019 01:50 UTC",Vega | PRISMA,StatusActive,37.0,Success
+156,CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Mar 09, 2019 16:28 UTC",Long March 3B/E | Zhongxing-6C,StatusActive,29.15,Success
+158,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Mar 02, 2019 07:49 UTC",Falcon 9 Block 5 | SpaceX Demo-1,StatusActive,50.0,Success
+160,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Feb 22, 2019 01:45 UTC",Falcon 9 Block 5 | Nusantara Satu & Beresheet,StatusActive,50.0,Success
+162,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Feb 05, 2019 21:01 UTC",Ariane 5 ECA | GSAT-31 & Hellas-Sat-4,StatusActive,200.0,Success
+166,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Mon Jan 21, 2019 05:42 UTC",Long March 11 | Jilin-1 Hyperspectral & Others,StatusActive,5.3,Success
+167,ULA,"SLC-6, Vandenberg AFB, California, USA","Sat Jan 19, 2019 19:10 UTC",Delta IV Heavy | NROL-71,StatusActive,350.0,Success
+168,JAXA,"Mu Pad, Uchinoura Space Center, Japan","Fri Jan 18, 2019 00:50 UTC",Epsilon PBS | Innovative Satellite Technology Demonstration-1,StatusActive,39.0,Success
+170,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Fri Jan 11, 2019 15:31 UTC",Falcon 9 Block 5 | Iridium-8,StatusActive,50.0,Success
+171,CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Jan 10, 2019 17:11 UTC",Long March 3B/E | Zhongxing-2D (Chinasat-2D),StatusActive,29.15,Success
+173,Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia","Thu Dec 27, 2018 02:07 UTC",Soyuz 2.1a/Fregat | Kanopus-V No. 5-6 & Rideshares,StatusActive,48.5,Success
+175,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Dec 23, 2018 13:51 UTC",Falcon 9 Block 5 | GPS III SV01,StatusActive,50.0,Success
+176,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Fri Dec 21, 2018 23:51 UTC",Long March 11 | Hongyun-1,StatusActive,5.3,Success
+177,VKS RF,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Dec 21, 2018 00:20 UTC",Proton-M/Briz-M | Blagovest No.13L,StatusActive,65.0,Success
+179,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 19, 2018 10:40 UTC",GSLV Mk II | GSAT-7A,StatusActive,47.0,Success
+180,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Sun Dec 16, 2018 06:33 UTC",Electron/Curie | This one's for Pickering,StatusActive,7.5,Success
+181,CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Dec 07, 2018 18:23 UTC",Long March 3B/E | Chang'e-4,StatusActive,29.15,Success
+182,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Dec 07, 2018 04:12 UTC","Long March 2D | SaudiSAT 5A, & 5B and Others",StatusActive,29.75,Success
+183,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Dec 05, 2018 18:16 UTC",Falcon 9 Block 5 | CRS-16,StatusActive,50.0,Success
+184,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Dec 04, 2018 20:37 UTC",Ariane 5 ECA | GSAT-11 & GEO-KOMPSAT 2A,StatusActive,200.0,Success
+185,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Mon Dec 03, 2018 18:34 UTC",Falcon 9 Block 5 | Spaceflight SSO-A,StatusActive,50.0,Success
+187,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Nov 30, 2018 02:27 UTC",Rokot/Briz KM | Cosmos 2530 to 2532,StatusRetired,41.8,Success
+188,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Nov 29, 2018 04:27 UTC",PSLV-CA | HySIS,StatusActive,21.0,Success
+189,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Nov 21, 2018 01:42 UTC",Vega | Mohammed VI-B,StatusActive,37.0,Success
+190,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Nov 19, 2018 23:40 UTC","Long March 2D | Shiyan-6, Jiading-1 (OKW-01), & Others",StatusActive,29.75,Success
+192,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sat Nov 17, 2018 09:01 UTC",Antares 230 | CRS NG-10,StatusRetired,85.0,Success
+194,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 15, 2018 20:46 UTC",Falcon 9 Block 5 | Es'hail 2,StatusActive,50.0,Success
+195,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Nov 14, 2018 11:38 UTC",GSLV Mk III | GSAT 29,StatusActive,62.0,Success
+196,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Sun Nov 11, 2018 03:50 UTC",Electron/Curie | It's Business Time,StatusActive,7.5,Success
+198,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Nov 03, 2018 20:17 UTC",Soyuz 2.1b/Fregat | GLONASS-M No.54S,StatusActive,48.5,Success
+199,CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Nov 01, 2018 15:57 UTC",Long March 3B/E | Beidou-3 G1,StatusActive,29.15,Success
+200,MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Oct 29, 2018 04:08 UTC","H-IIA 202 | Ibuki 2, KhalifaSat & Others",StatusActive,90.0,Success
+201,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Oct 29, 2018 00:47 UTC","Long March 2C | CFOSAT, Zhaojin-1, Hongyan-1, & Others",StatusActive,30.8,Success
+203,Roscosmos,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Oct 25, 2018 00:15 UTC",Soyuz 2.1b | Lotus-S No.4,StatusActive,35.0,Success
+204,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Oct 24, 2018 22:57 UTC",Long March 4B | Haiyang-2B,StatusActive,64.68,Success
+205,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Oct 20, 2018 01:45 UTC",Ariane 5 ECA | BepiColombo,StatusActive,200.0,Success
+206,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Oct 17, 2018 04:15 UTC",Atlas V 551 | AEHF-4,StatusActive,153.0,Success
+209,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Oct 09, 2018 02:43 UTC",Long March 2C | Yaogan-32 Group 01,StatusActive,30.8,Success
+210,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Mon Oct 08, 2018 02:21 UTC",Falcon 9 Block 5 | SAOCOM 1A,StatusActive,50.0,Success
+212,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Sep 25, 2018 22:38 UTC",Ariane 5 ECA | Horizons-3e & Azerspace 2/Intelsat 38,StatusActive,200.0,Success
+213,MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Sep 22, 2018 17:52 UTC",H-IIB | HTV-7,StatusRetired,112.5,Success
+215,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sun Sep 16, 2018 16:38 UTC",PSLV-CA | SSTL-1 & NovaSAR-S,StatusActive,21.0,Success
+217,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Sep 10, 2018 04:45 UTC",Falcon 9 Block 5 | Telstar 18V / APStar 5C,StatusActive,50.0,Success
+218,CASC,"Taiyuan Satellite Launch Center, China","Fri Sep 07, 2018 03:15 UTC",Long March 2C | Haiyang 1C (HY-1C),StatusActive,30.8,Success
+221,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Aug 22, 2018 21:20 UTC",Vega | ADM-Aeolus,StatusActive,37.0,Success
+222,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sun Aug 12, 2018 07:31 UTC",Delta IV Heavy | Parker Solar Probe,StatusActive,350.0,Success
+223,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Aug 07, 2018 05:18 UTC",Falcon 9 Block 5 | Merah Putih (Telkom-4),StatusActive,50.0,Success
+224,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Jul 31, 2018 03:00 UTC",Long March 4B | Gaofen 11,StatusActive,64.68,Success
+226,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Wed Jul 25, 2018 11:39 UTC",Falcon 9 Block 5 | Iridium-7,StatusActive,50.0,Success
+228,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Jul 22, 2018 05:50 UTC",Falcon 9 Block 5 | Telstar 19V,StatusActive,50.0,Success
+230,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Jul 09, 2018 21:51 UTC",Soyuz 2.1a | Progress MS-09 (70P),StatusActive,48.5,Success
+231,CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Jul 09, 2018 20:50 UTC",Long March 3A | BeiDou-2 I7,StatusActive,69.7,Success
+232,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Jul 09, 2018 03:56 UTC",Long March 2C | PRSS-1 & PakTES-1A,StatusActive,30.8,Success
+233,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 29, 2018 09:42 UTC",Falcon 9 Block 4 | CRS-15,StatusRetired,62.0,Success
+234,CASC,"LC-3, Xichang Satellite Launch Center, China","Wed Jun 27, 2018 03:30 UTC",Long March 2C | XJSS A & B,StatusActive,30.8,Success
+236,MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Jun 12, 2018 04:20 UTC",H-IIA 202 | IGS Radar-6,StatusActive,90.0,Success
+238,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jun 05, 2018 13:07 UTC",Long March 3A | Fengyun 2H,StatusActive,69.7,Success
+239,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jun 04, 2018 04:29 UTC",Falcon 9 Block 4 | SES-12,StatusRetired,62.0,Success
+240,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Jun 02, 2018 04:13 UTC",Long March 2D | Gaofen 6 & Luojia 1,StatusActive,29.75,Success
+241,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Tue May 22, 2018 19:47 UTC",Falcon 9 Block 4 | Iridium-6 & GRACE-FO,StatusRetired,62.0,Success
+242,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Mon May 21, 2018 04:44 UTC",Antares 230 | CRS OA-9E,StatusRetired,85.0,Success
+243,CASC,"LC-3, Xichang Satellite Launch Center, China","Sun May 20, 2018 21:28 UTC","Long March 4C | Queqiao, Longjiang 1 & 2",StatusActive,64.68,Success
+244,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 11, 2018 20:14 UTC",Falcon 9 Block 5 | Bangabandhu-1,StatusActive,50.0,Success
+245,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue May 08, 2018 18:28 UTC",Long March 4C | Gaofen 5,StatusActive,64.68,Success
+246,ULA,"SLC-3E, Vandenberg AFB, California, USA","Sat May 05, 2018 11:05 UTC",Atlas V 401 | InSight,StatusActive,109.0,Success
+247,CASC,"LC-2, Xichang Satellite Launch Center, China","Thu May 03, 2018 16:05 UTC",Long March 3B/E | Apstar 6C,StatusActive,29.15,Success
+249,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Thu Apr 26, 2018 04:42 UTC",Long March 11 | Zhuhai-1 2A to 2D,StatusActive,5.3,Success
+250,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Apr 25, 2018 17:57 UTC",Rokot/Briz KM | Sentinel-3B,StatusRetired,41.8,Success
+251,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Apr 18, 2018 22:51 UTC",Falcon 9 Block 4 | Transiting Exoplanet Survey Satellite (TESS),StatusRetired,62.0,Success
+252,VKS RF,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Apr 18, 2018 22:12 UTC",Proton-M/Briz-M | Blagovest-12L,StatusActive,65.0,Success
+253,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Apr 14, 2018 23:13 UTC",Atlas V 551 | AFSPC-11,StatusActive,153.0,Success
+254,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Apr 11, 2018 22:34 UTC",PSLV-XL | IRNSS-1I,StatusActive,31.0,Success
+255,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Apr 10, 2018 04:25 UTC","Long March 4C | Yaogan 31 A, B, & C",StatusActive,64.68,Success
+256,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Apr 05, 2018 21:34 UTC",Ariane 5 ECA | Superbird-B3/DSN-1 & HYLAS-4,StatusActive,200.0,Success
+257,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Apr 02, 2018 20:30 UTC",Falcon 9 Block 4 | CRS-14,StatusRetired,62.0,Success
+258,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Mar 31, 2018 03:22 UTC",Long March 4C | Gaofen-1 02-04,StatusActive,64.68,Success
+259,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Fri Mar 30, 2018 14:14 UTC",Falcon 9 Block 4 | Iridium-5,StatusRetired,62.0,Success
+262,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Mar 29, 2018 11:26 UTC",GSLV Mk II | GSAT-6A,StatusActive,47.0,Success
+264,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Mar 17, 2018 07:10 UTC",Long March 2D | LKW-4,StatusActive,29.75,Success
+266,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Mar 06, 2018 05:33 UTC",Falcon 9 Block 4 | Hispasat 30W-6,StatusRetired,62.0,Success
+267,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Mar 01, 2018 22:02 UTC",Atlas V 541 | GOES-S (GOES-17),StatusActive,145.0,Success
+268,MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Feb 27, 2018 04:34 UTC",H-IIA 202 | IGS-Optical 6,StatusActive,90.0,Success
+269,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Thu Feb 22, 2018 14:17 UTC","Falcon 9 Block 3 | PAZ & Tintin A, Tintin B",StatusRetired,62.0,Success
+270,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Feb 13, 2018 08:13 UTC",Soyuz 2.1a | Progress MS-08 (69P),StatusActive,48.5,Success
+272,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Tue Feb 06, 2018 20:45 UTC",Falcon Heavy | Test Flight,StatusActive,90.0,Success
+274,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Feb 02, 2018 07:50 UTC",Long March 2D | CSES & Rideshares,StatusActive,29.75,Success
+275,Roscosmos,"Site 1S, Vostochny Cosmodrome, Russia","Thu Feb 01, 2018 02:07 UTC",Soyuz 2.1a/Fregat-M | Kanopus-V No. 3-4 & Rideshares,StatusActive,48.5,Success
+276,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jan 31, 2018 21:25 UTC",Falcon 9 Block 3 | GovSat-1 / SES-16,StatusRetired,62.0,Success
+277,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jan 25, 2018 22:20 UTC",Ariane 5 ECA | SES-14/GOLD & Al Yah-3,StatusActive,200.0,Partial Failure
+278,CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Jan 25, 2018 05:39 UTC","Long March 2C | Yaogan 30 J, K & L",StatusActive,30.8,Success
+279,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Sun Jan 21, 2018 01:43 UTC",Electron/Curie | Still Testing,StatusActive,7.5,Success
+280,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Jan 20, 2018 00:48 UTC",Atlas V 411 | SBIRS GEO-4,StatusActive,115.0,Success
+281,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Fri Jan 19, 2018 04:12 UTC","Long March 11 | Jilin-1 07, 08 & Others",StatusActive,5.3,Success
+282,JAXA,"Mu Pad, Uchinoura Space Center, Japan","Wed Jan 17, 2018 21:06 UTC",Epsilon PBS | ASNARO 2,StatusActive,39.0,Success
+283,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Jan 13, 2018 07:20 UTC",Long March 2D | LKW-3,StatusActive,29.75,Success
+285,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Jan 12, 2018 03:58 UTC",PSLV-XL | Cartosat-2F & Rideshares,StatusActive,31.0,Success
+287,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Jan 09, 2018 03:24 UTC",Long March 2D | SuperView 03 & 04,StatusActive,29.75,Success
+288,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jan 08, 2018 01:00 UTC",Falcon 9 Block 4 | Zuma,StatusRetired,62.0,Success
+290,CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Dec 25, 2017 19:44 UTC","Long March 2C | Yaogan-30 G, H & I",StatusActive,30.8,Success
+291,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Dec 23, 2017 04:14 UTC",Long March 2D | LKW-2,StatusActive,29.75,Success
+292,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sat Dec 23, 2017 01:27 UTC",Falcon 9 Block 3 | Iridium-4,StatusRetired,62.0,Success
+293,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Dec 23, 2017 01:26 UTC",H-IIA 202 | GCOM-C & SLATS,StatusActive,90.0,Success
+296,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 2017 15:36 UTC",Falcon 9 Block 3 | CRS-13,StatusRetired,62.0,Success
+298,CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Dec 10, 2017 16:41 UTC",Long March 3B/E | Alcomsat-1,StatusActive,29.15,Success
+299,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Dec 03, 2017 04:11 UTC",Long March 2D | LKW-1,StatusActive,29.75,Success
+300,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Dec 02, 2017 10:43 UTC",Soyuz 2.1b | Cosmos 2524,StatusActive,35.0,Success
+302,CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Nov 24, 2017 18:10 UTC","Long March 2C | Yaogan-30 D, E, & F",StatusActive,30.8,Success
+305,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Nov 14, 2017 18:35 UTC",Long March 4C | Fengyun 3D,StatusActive,64.68,Success
+306,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sun Nov 12, 2017 12:19 UTC",Antares 230 | CRS OA-8E,StatusRetired,85.0,Success
+307,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Nov 08, 2017 01:42 UTC",Vega | Mohammed VI-A,StatusActive,37.0,Success
+309,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Tue Oct 31, 2017 21:37 UTC",Minotaur C (Taurus) | SkySat & Flock-3m,StatusActive,45.0,Success
+310,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Oct 30, 2017 19:34 UTC",Falcon 9 Block 4 | Koreasat 5A,StatusRetired,62.0,Success
+311,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sun Oct 15, 2017 07:28 UTC",Atlas V 421 | NROL-52,StatusActive,123.0,Success
+312,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Oct 14, 2017 08:46 UTC",Soyuz 2.1a | Progress MS-07 (68P),StatusActive,48.5,Success
+313,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Oct 13, 2017 09:27 UTC",Rokot/Briz KM | Sentinel-5P,StatusRetired,41.8,Success
+314,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Oct 11, 2017 22:53 UTC",Falcon 9 Block 3 | SES-11 / EchoStar 105,StatusRetired,62.0,Success
+315,MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Oct 09, 2017 22:01 UTC",H-IIA 202 | QZS-4,StatusActive,90.0,Success
+316,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Mon Oct 09, 2017 12:37 UTC",Falcon 9 Block 4 | Iridium-3,StatusRetired,62.0,Success
+317,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Oct 09, 2017 04:13 UTC",Long March 2D | VRSS-2,StatusActive,29.75,Success
+318,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Sep 29, 2017 21:56 UTC","Ariane 5 ECA | Intelsat 37e, BSAT-4a",StatusActive,200.0,Success
+319,CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Sep 29, 2017 04:21 UTC","Long March 2C | Yaogan-30 A, B & C",StatusActive,30.8,Success
+320,VKS RF,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Sep 28, 2017 18:52 UTC",Proton-M/Briz-M | AsiaSat 9,StatusActive,65.0,Success
+321,ULA,"SLC-3E, Vandenberg AFB, California, USA","Sun Sep 24, 2017 05:49 UTC",Atlas V 541 | NROL-42,StatusActive,145.0,Success
+322,ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Sep 11, 2017 19:23 UTC",Proton-M/Briz-M | Amazonas 5,StatusActive,65.0,Success
+323,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 07, 2017 14:00 UTC",Falcon 9 Block 4 | OTV-5,StatusRetired,62.0,Success
+324,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Aug 31, 2017 13:30 UTC",PSLV-XL | IRNSS-1H,StatusActive,31.0,Failure
+325,Northrop,"SLC-46, Cape Canaveral AFS, Florida, USA","Fri Aug 25, 2017 06:04 UTC",Minotaur IV | ORS-5,StatusActive,46.0,Success
+326,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Thu Aug 24, 2017 18:51 UTC",Falcon 9 Block 3 | Formosat-5,StatusRetired,62.0,Success
+329,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Aug 18, 2017 12:29 UTC",Atlas V 401 | TDRS-M (TDRS-13),StatusActive,109.0,Success
+330,VKS RF,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Aug 16, 2017 22:07 UTC",Proton-M/Briz-M | Blagovest-11L,StatusActive,65.0,Success
+331,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon Aug 14, 2017 16:31 UTC",Falcon 9 Block 4 | CRS-12,StatusRetired,62.0,Success
+333,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Aug 02, 2017 01:58 UTC",Vega | OPSAT 3000 & VEN†æS,StatusActive,37.0,Success
+336,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jul 14, 2017 06:36 UTC",Soyuz 2.1a/Fregat | Kanopus-V IK & Rideshares,StatusActive,48.5,Partial Failure
+337,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 05, 2017 20:25 UTC",Falcon 9 Block 3 | Intelsat 35e,StatusRetired,62.0,Success
+339,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jun 28, 2017 21:15 UTC","Ariane 5 ECA | Hellas Sat 3-Inmarsat S EAN, GSAT-17",StatusActive,200.0,Success
+340,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sun Jun 25, 2017 20:25 UTC",Falcon 9 Block 3 | Iridium-2,StatusRetired,62.0,Success
+341,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 23, 2017 19:10 UTC",Falcon 9 Block 3 | BulgariaSat-1,StatusRetired,62.0,Success
+343,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Jun 23, 2017 03:59 UTC",PSLV-XL | Cartosat-2E & Rideshares,StatusActive,31.0,Success
+344,CASC,"LC-2, Xichang Satellite Launch Center, China","Sun Jun 18, 2017 16:12 UTC",Long March 3B/E | ChinaSat 9A,StatusActive,29.15,Partial Failure
+345,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Jun 15, 2017 03:15 UTC",Long March 4B | HXMT & Others,StatusActive,64.68,Success
+346,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jun 14, 2017 09:20 UTC",Soyuz 2.1a | Progress MS-06 (67P),StatusActive,48.5,Success
+347,ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Jun 08, 2017 03:45 UTC",Proton-M/Briz-M | Echostar 21,StatusActive,65.0,Success
+348,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Jun 05, 2017 11:58 UTC",GSLV Mk III | GSAT-19,StatusActive,62.0,Success
+349,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sat Jun 03, 2017 21:07 UTC",Falcon 9 Block 3 | CRS-11,StatusRetired,62.0,Success
+350,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jun 01, 2017 23:45 UTC","Ariane 5 ECA | ViaSat 2, Eutelsat 172B",StatusActive,200.0,Success
+351,MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu Jun 01, 2017 00:17 UTC",H-IIA 202 | QZS-2,StatusActive,90.0,Success
+353,Rocket Lab,"Rocket Lab LC-1A, M?hia Peninsula, New Zealand","Thu May 25, 2017 04:20 UTC",Electron | It's a Test,StatusActive,7.5,Failure
+355,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 15, 2017 23:21 UTC",Falcon 9 Block 3 | Inmarsat-5 F4,StatusRetired,62.0,Success
+356,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Fri May 05, 2017 11:27 UTC",GSLV Mk II | GSAT-9,StatusActive,47.0,Success
+357,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu May 04, 2017 21:50 UTC","Ariane 5 ECA | Koreasat 7, SGDC-1",StatusActive,200.0,Success
+358,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 01, 2017 11:15 UTC",Falcon 9 Block 3 | NROL-76,StatusRetired,62.0,Success
+361,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Apr 18, 2017 15:11 UTC",Atlas V 401 | CRS OA-7,StatusActive,109.0,Success
+362,CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Apr 12, 2017 11:04 UTC",Long March 3B/E | Shijian 13,StatusActive,29.15,Success
+363,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 30, 2017 22:27 UTC",Falcon 9 Block 3 | SES-10,StatusRetired,62.0,Success
+365,MHI,"LA-Y1, Tanegashima Space Center, Japan","Fri Mar 17, 2017 01:20 UTC",H-IIA 202 | IGS-Radar 5,StatusActive,90.0,Success
+366,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 16, 2017 06:00 UTC",Falcon 9 Block 3 | Echostar 23,StatusRetired,62.0,Success
+367,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Tue Mar 07, 2017 01:49 UTC",Vega | Sentinel 2B,StatusActive,37.0,Success
+369,ULA,"SLC-3E, Vandenberg AFB, California, USA","Wed Mar 01, 2017 17:49 UTC",Atlas V 401 | NROL-79,StatusActive,109.0,Success
+371,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Sun Feb 19, 2017 14:39 UTC",Falcon 9 Block 3 | CRS-10,StatusRetired,62.0,Success
+372,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Feb 15, 2017 03:58 UTC",PSLV-XL | Cartosat-2D & Rideshares,StatusActive,31.0,Success
+373,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Feb 14, 2017 21:39 UTC",Ariane 5 ECA | Intelsat 32e/SkyBrasil-1 & Telkom-3S,StatusActive,200.0,Success
+376,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Jan 21, 2017 00:42 UTC",Atlas V 401 | SBIRS GEO-3,StatusActive,109.0,Success
+378,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sat Jan 14, 2017 17:54 UTC",Falcon 9 Block 3 | Iridium-1,StatusRetired,62.0,Success
+380,CASC,"LC-2, Xichang Satellite Launch Center, China","Thu Jan 05, 2017 15:18 UTC",Long March 3B/E | TJS 2,StatusActive,29.15,Success
+381,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Dec 28, 2016 03:23 UTC","Long March 2D | SuperView-1 1, 2 & Bayi Kepu 1",StatusActive,29.75,Partial Failure
+382,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Dec 21, 2016 20:30 UTC","Ariane 5 ECA | Star One D1, JCSAT-15",StatusActive,200.0,Success
+383,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Dec 21, 2016 19:22 UTC","Long March 2D | TanSat & Spark 1, 2",StatusActive,29.75,Success
+385,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sun Dec 18, 2016 19:13 UTC",Atlas V 431 | EchoStar 19,StatusActive,130.0,Success
+386,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA","Thu Dec 15, 2016 13:37 UTC",Pegasus XL | CYGNSS,StatusActive,40.0,Success
+387,CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Dec 10, 2016 16:11 UTC",Long March 3B/E | Fengyun 4A,StatusActive,29.15,Success
+388,MHI,"LA-Y2, Tanegashima Space Center, Japan","Fri Dec 09, 2016 13:26 UTC",H-IIB | HTV-6,StatusRetired,112.5,Success
+390,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 07, 2016 04:54 UTC",PSLV-XL | Resourcesat-2A,StatusActive,31.0,Success
+391,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Mon Dec 05, 2016 13:51 UTC",Vega | G??kt??rk-1A,StatusActive,37.0,Success
+394,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Nov 19, 2016 23:42 UTC",Atlas V 541 | GOES-R (GOES-16),StatusActive,145.0,Success
+397,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Nov 11, 2016 23:14 UTC",Long March 2D | Yunhai-1,StatusActive,29.75,Success
+398,ULA,"SLC-3E, Vandenberg AFB, California, USA","Fri Nov 11, 2016 18:30 UTC",Atlas V 401 | WorldView-4,StatusActive,109.0,Success
+399,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Wed Nov 09, 2016 23:42 UTC","Long March 11 | XPNAV 1, Xiaoxiang 1 & Others",StatusActive,5.3,Success
+401,MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Nov 02, 2016 06:20 UTC",H-IIA 202 | Himawari 9,StatusActive,90.0,Success
+403,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Mon Oct 17, 2016 23:45 UTC",Antares 230 | CRS OA-5,StatusRetired,85.0,Success
+406,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Oct 05, 2016 20:30 UTC","Ariane 5 ECA | Sky Muster II, GSAT-18",StatusActive,200.0,Success
+407,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 26, 2016 03:42 UTC",PSLV-G | ScatSat-1 & Rideshares,StatusRetired,25.0,Success
+408,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri Sep 16, 2016 01:43 UTC",Vega | PeruSat-1 and SkySats 4-7,StatusActive,37.0,Success
+411,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Sep 08, 2016 23:05 UTC",Atlas V 411 | OSIRIS-REx,StatusActive,115.0,Success
+412,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Sep 08, 2016 11:20 UTC",GSLV Mk II | INSAT-3DR,StatusActive,47.0,Success
+413,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Sep 01, 2016 13:07 UTC",Falcon 9 Block 3 | AMOS-6,StatusRetired,62.0,Prelaunch Failure
+414,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Wed Aug 31, 2016 18:50 UTC",Long March 4C | Gaofen-10,StatusActive,64.68,Failure
+415,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Aug 24, 2016 22:16 UTC","Ariane 5 ECA | Intelsat 33e, Intelsat 36",StatusActive,200.0,Success
+416,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fri Aug 19, 2016 04:52 UTC","Delta IV Medium+ (4,2) | AFSPC-6",StatusRetired,164.0,Success
+417,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Aug 15, 2016 17:40 UTC","Long March 2D | QUESS, Lixing-1, & 3CAT 2",StatusActive,29.75,Success
+418,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Aug 14, 2016 05:26 UTC",Falcon 9 Block 3 | JCSAT-16,StatusRetired,62.0,Success
+419,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Tue Aug 09, 2016 22:55 UTC",Long March 4C | Gaofen-3,StatusActive,64.68,Success
+420,CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Aug 05, 2016 16:22 UTC",Long March 3B/E | Tiantong-1 01,StatusActive,29.15,Success
+421,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jul 28, 2016 12:37 UTC",Atlas V 421 | NROL-61,StatusActive,123.0,Success
+422,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jul 18, 2016 04:45 UTC",Falcon 9 Block 3 | CRS-9,StatusRetired,62.0,Success
+425,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Jun 29, 2016 03:21 UTC",Long March 4B | Shijian 16-02,StatusActive,64.68,Success
+427,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Jun 24, 2016 14:30 UTC",Atlas V 551 | MUOS-5,StatusActive,153.0,Success
+428,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Jun 22, 2016 03:56 UTC",PSLV-XL | Cartosat-2C & Rideshares,StatusActive,31.0,Success
+430,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Jun 18, 2016 05:20 UTC","Ariane 5 ECA | EchoStar 18, BRISat",StatusActive,200.0,Success
+431,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jun 15, 2016 14:29 UTC",Falcon 9 Block 3 | ABS-2A & Eutelsat 117 West B,StatusRetired,62.0,Success
+433,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sat Jun 11, 2016 17:51 UTC",Delta IV Heavy | NROL-37,StatusActive,350.0,Success
+434,ILS,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Jun 09, 2016 07:10 UTC",Proton-M/Briz-M | Intelsat 31 / DLA-2,StatusActive,65.0,Success
+435,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Sat Jun 04, 2016 14:00 UTC",Rokot/Briz KM | Cosmos 2517,StatusRetired,41.8,Success
+436,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Mon May 30, 2016 03:17 UTC","Long March 4B | Ziyuan III-02 & ??uSat-1, 2",StatusActive,64.68,Success
+437,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun May 29, 2016 08:44 UTC",Soyuz 2.1b/Fregat | GLONASS-M No.51S,StatusActive,48.5,Success
+438,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 27, 2016 21:39 UTC",Falcon 9 Block 3 | Thaicom 8,StatusRetired,62.0,Success
+440,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun May 15, 2016 02:43 UTC",Long March 2D | Yaogan 30,StatusActive,29.75,Success
+441,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri May 06, 2016 05:21 UTC",Falcon 9 Block 3 | JCSAT-14,StatusRetired,62.0,Success
+442,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Apr 28, 2016 07:20 UTC",PSLV-XL | IRNSS-1G,StatusActive,31.0,Success
+445,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 08, 2016 20:43 UTC",Falcon 9 Block 3 | CRS-8,StatusRetired,62.0,Success
+446,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Apr 05, 2016 17:38 UTC",Long March 2D | Shijian-10,StatusActive,29.75,Success
+448,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Mar 31, 2016 16:23 UTC",Soyuz 2.1a | Progress MS-02,StatusActive,48.5,Success
+449,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Mar 29, 2016 20:11 UTC",Long March 3A | BeiDou IGSO-6,StatusActive,69.7,Success
+450,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Mar 24, 2016 09:42 UTC",Soyuz 2.1a | Bars-M 2L,StatusActive,48.5,Success
+451,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Mar 23, 2016 03:05 UTC",Atlas V 401 | CRS OA-6,StatusActive,109.0,Success
+453,Roscosmos,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Mar 14, 2016 09:31 UTC",Proton-M/Briz-M | ExoMars Trace Gas Orbiter & Schiaparelli EDM,StatusActive,65.0,Success
+454,Roscosmos,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Mar 13, 2016 18:56 UTC",Soyuz 2.1b | Resurs-P No.3,StatusActive,35.0,Success
+455,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Mar 10, 2016 10:31 UTC",PSLV-XL | IRNSS-1F,StatusActive,31.0,Success
+456,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Mar 09, 2016 05:20 UTC",Ariane 5 ECA | Eutelsat 65 West A,StatusActive,200.0,Success
+457,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 04, 2016 23:35 UTC",Falcon 9 Block 3 | SES-9,StatusRetired,62.0,Success
+458,MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Feb 17, 2016 08:45 UTC","H-IIA 202 | Astro H, Horyu 4 & Kinshachi 2 and 3",StatusActive,90.0,Success
+459,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Feb 16, 2016 17:57 UTC",Rokot/Briz KM | Sentinel-3A,StatusRetired,41.8,Success
+462,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Feb 07, 2016 00:21 UTC",Soyuz 2.1b/Fregat | GLONASS-M No.50S,StatusActive,48.5,Success
+463,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Feb 05, 2016 13:38 UTC",Atlas V 401 | GPS IIF-12,StatusActive,109.0,Success
+465,ILS,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Jan 29, 2016 22:20 UTC",Proton-M/Briz-M | Eutelsat 9B,StatusActive,65.0,Success
+466,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jan 27, 2016 23:20 UTC",Ariane 5 ECA | Intelsat 29e,StatusActive,200.0,Success
+468,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Jan 20, 2016 04:01 UTC",PSLV-XL | IRNSS-1E,StatusActive,31.0,Success
+469,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sun Jan 17, 2016 18:42 UTC",Falcon 9 v1.1 | Jason-3,StatusRetired,56.5,Success
+470,CASC,"LC-3, Xichang Satellite Launch Center, China","Fri Jan 15, 2016 16:57 UTC",Long March 3B/E | Belintersat 1,StatusActive,29.15,Success
+471,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Dec 22, 2015 01:29 UTC",Falcon 9 Block 3 | OG2 Mission 2,StatusRetired,62.0,Success
+473,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 16, 2015 12:30 UTC",PSLV-CA | TeLEOS-1 & Rideshares,StatusActive,21.0,Success
+475,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sun Dec 06, 2015 21:44 UTC",Atlas V 401 | CRS OA-4,StatusActive,109.0,Success
+477,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Dec 03, 2015 04:04 UTC",Vega | LISA Pathfinder,StatusActive,37.0,Success
+480,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Nov 10, 2015 21:34 UTC","Ariane 5 ECA | Arabsat 6B, GSAT-15",StatusActive,200.0,Success
+481,Sandia,"LP-41, Kauai, Pacific Missile Range Facility","Wed Nov 04, 2015","Super Stripy | HiakaSat, STACEM & Others",StatusActive,15.0,Failure
+482,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Oct 31, 2015 16:13 UTC",Atlas V 401 | GPS IIF-11,StatusActive,109.0,Success
+483,ULA,"SLC-3E, Vandenberg AFB, California, USA","Thu Oct 08, 2015 12:49 UTC",Atlas V 401 | NROL-55,StatusActive,109.0,Success
+484,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Oct 02, 2015 10:28 UTC",Atlas V 421 | Morelos-3,StatusActive,123.0,Success
+485,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Sep 30, 2015 20:30 UTC","Ariane 5 ECA | NBN Co 1A, ARSAT-2",StatusActive,200.0,Success
+486,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 28, 2015 04:30 UTC",PSLV-XL | Astrosat & Rideshares,StatusActive,31.0,Success
+487,CASC,"Site 95, Jiuquan Satellite Launch Center, China","Fri Sep 25, 2015",Long March 11 | Pujian 1 & Others,StatusActive,5.3,Success
+488,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Sep 23, 2015 21:59 UTC",Rokot/Briz KM | Cosmos 2507 to 2509,StatusRetired,41.8,Success
+491,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Sep 02, 2015 10:18 UTC",Atlas V 551 | MUOS-4,StatusActive,153.0,Success
+492,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Aug 27, 2015 11:22 UTC",GSLV Mk II | GSAT-6,StatusActive,47.0,Success
+493,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Aug 20, 2015 20:34 UTC","Ariane 5 ECA | Eutelsat 8 West B, Intelsat 34",StatusActive,200.0,Success
+494,MHI,"LA-Y2, Tanegashima Space Center, Japan","Wed Aug 19, 2015 11:50 UTC",H-IIB | HTV-5,StatusRetired,112.5,Success
+496,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jul 15, 2015 21:42 UTC","Ariane 5 ECA | Star One C4, MSG-4",StatusActive,200.0,Success
+497,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Jul 15, 2015 15:36 UTC",Atlas V 401 | GPS IIF-10,StatusActive,109.0,Success
+498,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Jul 10, 2015 16:28 UTC",PSLV-XL | UK-DMC3A/B/C & Rideshares,StatusActive,31.0,Success
+499,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Jun 28, 2015 14:21 UTC",Falcon 9 v1.1 | CRS-7,StatusRetired,56.5,Failure
+500,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Tue Jun 23, 2015 01:51 UTC",Vega | Sentinel-2A,StatusActive,37.0,Success
+501,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed May 27, 2015 21:16 UTC","Ariane 5 ECA | DirecTV-15, Sky Mexico 1",StatusActive,200.0,Success
+502,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed May 20, 2015 15:05 UTC",Atlas V 501 | OTV-4,StatusActive,120.0,Success
+504,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Apr 27, 2015 23:03 UTC",Falcon 9 v1.1 | Turkmen??lem52E/MonacoSat,StatusRetired,56.5,Success
+505,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sun Apr 26, 2015 20:00 UTC","Ariane 5 ECA | Thor 7, SICRAL-2",StatusActive,200.0,Success
+506,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Apr 15, 2015 20:10 UTC",Falcon 9 v1.1 | CRS-6,StatusRetired,56.5,Success
+507,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Mar 31, 2015 13:47 UTC",Rokot/Briz KM | Cosmos 2504 & Goniets-M 21 to 23,StatusRetired,41.8,Success
+508,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sat Mar 28, 2015 11:49 UTC",PSLV-XL | IRNSS-1D,StatusActive,31.0,Success
+510,MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu Mar 26, 2015 01:21 UTC",H-IIA 202 | IGS-Optical 5,StatusActive,90.0,Success
+511,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Wed Mar 25, 2015 22:08 UTC",Dnepr | KompSat-3A,StatusRetired,29.0,Success
+512,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Wed Mar 25, 2015 18:36 UTC","Delta IV Medium+ (4,2) | GPS IIF-9",StatusRetired,164.0,Success
+513,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Mar 13, 2015 02:44 UTC",Atlas V 421 | MMS,StatusActive,123.0,Success
+514,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Mar 02, 2015 03:50 UTC",Falcon 9 v1.1 | ABS-3A & EUTELSAT 115 West B,StatusRetired,56.5,Success
+516,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Feb 11, 2015 23:03 UTC",Falcon 9 v1.1 | DSCOVR,StatusRetired,56.5,Success
+517,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Feb 11, 2015 13:40 UTC",Vega | IXV,StatusActive,37.0,Success
+519,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Feb 01, 2015 01:21 UTC",H-IIA 202 | IGS-Radar 5,StatusActive,90.0,Success
+521,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Jan 21, 2015 01:04 UTC",Atlas V 551 | MUOS-3,StatusActive,153.0,Success
+522,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Jan 10, 2015 09:47 UTC",Falcon 9 v1.1 | CRS-5,StatusRetired,56.5,Success
+526,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Dec 18, 2014 04:00 UTC",GSLV Mk III | Demo Flight (CARE),StatusActive,62.0,Success
+527,ULA,"SLC-3E, Vandenberg AFB, California, USA","Sat Dec 13, 2014 03:19 UTC",Atlas V 541 | NROL-35,StatusActive,145.0,Success
+528,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Dec 06, 2014 20:40 UTC","Ariane 5 ECA | DirecTV-14, GSAT-16",StatusActive,200.0,Success
+529,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fri Dec 05, 2014 12:05 UTC",Delta IV Heavy | EFT-1,StatusActive,350.0,Success
+530,MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Dec 03, 2014 04:22 UTC",H-IIA 202 | Hayabusa 2 & Others,StatusActive,90.0,Success
+532,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Nov 06, 2014 07:35 UTC",Dnepr | Sasuke & Others,StatusRetired,29.0,Success
+533,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Oct 29, 2014 17:21 UTC",Atlas V 401 | GPS IIF-8,StatusActive,109.0,Success
+534,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Tue Oct 28, 2014 22:22 UTC",Antares 130 | CRS Orb-3,StatusRetired,80.0,Failure
+535,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 16, 2014 21:43 UTC","Ariane 5 ECA | Intelsat 30, ARSAT-1",StatusActive,200.0,Success
+536,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Oct 16, 2014 20:02 UTC",PSLV-XL | IRNSS-1C,StatusActive,31.0,Success
+537,MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Oct 07, 2014 05:16 UTC",H-IIA 202 | Himawari 8,StatusActive,90.0,Success
+538,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Sep 21, 2014 05:52 UTC",Falcon 9 v1.1 | CRS-4,StatusRetired,56.5,Success
+539,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Sep 17, 2014 00:10 UTC",Atlas V 401 | CLIO,StatusActive,109.0,Success
+540,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Sep 11, 2014 22:05 UTC","Ariane 5 ECA | MEASAT 3b, Optus 10",StatusActive,200.0,Success
+541,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Sep 07, 2014 05:00 UTC",Falcon 9 v1.1 | AsiaSat 6,StatusRetired,56.5,Success
+543,ULA,"SLC-3E, Vandenberg AFB, California, USA","Wed Aug 13, 2014 18:30 UTC",Atlas V 401 | WorldView 3,StatusActive,109.0,Success
+544,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Aug 05, 2014 08:00 UTC",Falcon 9 v1.1 | AsiaSat 8,StatusRetired,56.5,Success
+545,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Aug 02, 2014 03:23 UTC",Atlas V 401 | GPS IIF-7,StatusActive,109.0,Success
+547,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Mon Jul 28, 2014 23:28 UTC","Delta IV Medium+ (4,2) | AFSPC-4",StatusRetired,164.0,Success
+548,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jul 14, 2014 15:15 UTC",Falcon 9 v1.1 | OG2 Mission 1,StatusRetired,56.5,Success
+549,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sun Jul 13, 2014 16:52 UTC",Antares 120 | CRS Orb-2,StatusRetired,80.0,Success
+552,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Jul 03, 2014 12:43 UTC",Rokot/Briz KM | Goniets-M 18 to 20,StatusRetired,41.8,Success
+554,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Jun 30, 2014 04:22 UTC",PSLV-CA | SPOT-7 & Rideshares,StatusActive,21.0,Success
+555,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Jun 19, 2014 19:11 UTC",Dnepr | Deimos 2,StatusRetired,29.0,Success
+557,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat May 24, 2014 03:05 UTC","H-IIA 202 | Daichi 2, SPROUT & Others",StatusActive,90.0,Success
+558,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri May 23, 2014 05:27 UTC",Rokot/Briz KM | Cosmos 2496 to 2499,StatusRetired,41.8,Success
+559,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu May 22, 2014 13:09 UTC",Atlas V 401 | NROL-33,StatusActive,109.0,Success
+560,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sat May 17, 2014 00:03 UTC","Delta IV Medium+ (4,2) | GPS IIF-6",StatusRetired,164.0,Success
+561,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Apr 30, 2014 01:35 UTC",Vega | KazEOSat-1,StatusActive,37.0,Success
+562,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 18, 2014 19:25 UTC",Falcon 9 v1.1 | CRS-3,StatusRetired,56.5,Success
+563,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Apr 10, 2014 17:45 UTC",Atlas V 541 | NROL-67,StatusActive,145.0,Success
+565,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Apr 04, 2014 11:44 UTC",PSLV-XL | IRNSS-1B,StatusActive,31.0,Success
+567,ULA,"SLC-3E, Vandenberg AFB, California, USA","Thu Apr 03, 2014 14:46 UTC",Atlas V 401 | DMSP-5D3 F19,StatusActive,109.0,Success
+568,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Mar 22, 2014 22:04 UTC","Ariane 5 ECA | Astra 5B, Amazonas 4A",StatusActive,200.0,Success
+569,MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu Feb 27, 2014 18:37 UTC",H-IIA 202 | GPM-Core & Others,StatusActive,90.0,Success
+570,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fri Feb 21, 2014 01:59 UTC","Delta IV Medium+ (4,2) | GPS IIF-5",StatusRetired,164.0,Success
+571,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Feb 06, 2014 21:30 UTC","Ariane 5 ECA | ABS-2, Athena-Fidus",StatusActive,200.0,Success
+572,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Jan 24, 2014 02:33 UTC",Atlas V 401 | TDRS-L,StatusActive,109.0,Success
+573,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Thu Jan 09, 2014 18:07 UTC",Antares 120 | CRS Orb-1,StatusRetired,80.0,Success
+574,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jan 06, 2014 22:06 UTC",Falcon 9 v1.1 | Thaicom 6,StatusRetired,56.5,Success
+575,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sun Jan 05, 2014 10:48 UTC",GSLV Mk II | GSAT-14,StatusActive,47.0,Success
+577,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Dec 25, 2013 00:31 UTC",Rokot/Briz KM | Cosmos 2488 to 2491,StatusRetired,41.8,Success
+579,ULA,"SLC-3E, Vandenberg AFB, California, USA","Fri Dec 06, 2013 07:14 UTC",Atlas V 501 | NROL-39,StatusActive,120.0,Success
+580,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Dec 03, 2013 22:41 UTC",Falcon 9 v1.1 | SES-8,StatusRetired,56.5,Success
+581,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Nov 22, 2013 12:02 UTC",Rokot/Briz KM | SWARM,StatusRetired,41.8,Success
+582,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Nov 21, 2013 07:10 UTC",Dnepr | DubaiSat 2 & Others,StatusRetired,29.0,Success
+583,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Wed Nov 20, 2013 01:15 UTC",Minotaur I | ORS-3,StatusActive,40.0,Success
+584,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Nov 18, 2013 18:28 UTC",Atlas V 401 | MAVEN,StatusActive,109.0,Success
+585,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Tue Nov 05, 2013 09:08 UTC",PSLV-XL | Mars Orbiter Mission,StatusActive,31.0,Success
+586,SpaceX,"SLC-4E, Vandenberg AFB, California, USA","Sun Sep 29, 2013 16:00 UTC",Falcon 9 v1.1 | CASSIOPE,StatusRetired,56.5,Success
+588,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Sep 18, 2013 08:10 UTC",Atlas V 531 | AEHF-3,StatusActive,140.0,Success
+590,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Fri Sep 13, 2013 14:58 UTC",Antares 110 | CRS Orb-D1,StatusRetired,80.0,Success
+591,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Sep 11, 2013 23:23 UTC","Rokot/Briz KM | Goniets-M 14, 16 and 17",StatusRetired,41.8,Success
+592,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Sat Sep 07, 2013 03:27 UTC",Minotaur V | LADEE,StatusActive,55.0,Success
+594,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Aug 29, 2013 20:30 UTC","Ariane 5 ECA | Eutelsat 25B/Es'hail 1, GSAT-7",StatusActive,200.0,Success
+595,ULA,"SLC-6, Vandenberg AFB, California, USA","Wed Aug 28, 2013 18:03 UTC",Delta IV Heavy | NROL-65,StatusActive,350.0,Success
+596,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Aug 22, 2013 14:39 UTC",Dnepr | KompSat-5,StatusRetired,29.0,Success
+598,MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Aug 03, 2013 19:48 UTC",H-IIB | HTV-4,StatusRetired,112.5,Success
+599,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jul 25, 2013 19:54 UTC","Ariane 5 ECA | Alphasat I-XL, INSAT-3D",StatusActive,200.0,Success
+600,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Jul 19, 2013 13:00 UTC",Atlas V 551 | MUOS-2,StatusActive,153.0,Success
+601,VKS RF,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Jul 02, 2013 02:38 UTC","Proton-M/DM-3 | Cosmos 2488, 2489 & 2490",StatusActive,65.0,Failure
+602,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 01, 2013 18:11 UTC",PSLV-XL | IRNSS-1A,StatusActive,31.0,Success
+603,Northrop,"Stargazer, Vandenberg AFB, California, USA","Fri Jun 28, 2013 02:27 UTC",Pegasus XL | IRIS,StatusActive,40.0,Success
+609,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed May 15, 2013 21:38 UTC",Atlas V 401 | GPS IIF-4,StatusActive,109.0,Success
+610,Arianespace,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Tue May 07, 2013 02:06 UTC","Vega | Proba-V, VNREDSat-1A & ESTCube-1",StatusActive,37.0,Success
+611,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Sun Apr 21, 2013 21:00 UTC",Antares 110 | Antares A-ONE,StatusRetired,80.0,Success
+612,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Mar 19, 2013 21:21 UTC",Atlas V 401 | SBIRS GEO-2,StatusActive,109.0,Success
+613,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Mar 01, 2013 15:10 UTC",Falcon 9 v1.0 | CRS-2,StatusRetired,59.5,Success
+614,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Feb 25, 2013 12:31 UTC",PSLV-CA | SARAL & Rideshares,StatusActive,21.0,Success
+615,ULA,"SLC-3E, Vandenberg AFB, California, USA","Mon Feb 11, 2013 18:02 UTC",Atlas V 401 | Landsat 8,StatusActive,109.0,Success
+616,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Feb 07, 2013 21:36 UTC","Ariane 5 ECA | Amazonas-3, Azerspace-1 (Africasat-1A)",StatusActive,200.0,Success
+618,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jan 31, 2013 01:48 UTC",Atlas V 401 | TDRS-K,StatusActive,109.0,Success
+620,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Jan 27, 2013 04:40 UTC",H-IIA 202 | IGS-Optical 5V & IGS-Radar 4,StatusActive,90.0,Success
+621,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Jan 15, 2013 16:24 UTC",Rokot/Briz KM | Cosmos 2482 to 2484,StatusRetired,41.8,Partial Failure
+622,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Dec 19, 2012 21:49 UTC","Ariane 5 ECA | Skynet 5D, Mexsat-3",StatusActive,200.0,Success
+624,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Dec 11, 2012 18:03 UTC",Atlas V 501 | OTV-3,StatusActive,120.0,Success
+626,Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Sun Dec 02, 2012 02:02 UTC",Soyuz ST-A/Fregat | Pl??iades 1B,StatusActive,80.0,Success
+627,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Nov 10, 2012 21:05 UTC","Ariane 5 ECA | Eutelsat 21B, Star One C3",StatusActive,200.0,Success
+629,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Oct 08, 2012 00:35 UTC",Falcon 9 v1.0 | CRS-1,StatusRetired,59.5,Partial Failure
+630,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Thu Oct 04, 2012 12:10 UTC","Delta IV Medium+ (4,2) | GPS IIF-3",StatusRetired,164.0,Success
+631,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Sep 28, 2012 21:18 UTC","Ariane 5 ECA | Astra 2F, GSAT-10",StatusActive,200.0,Success
+633,ULA,"SLC-3E, Vandenberg AFB, California, USA","Thu Sep 13, 2012 21:39 UTC",Atlas V 401 | NROL-36,StatusActive,109.0,Success
+634,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sun Sep 09, 2012 04:23 UTC",PSLV-CA | SPOT-6 & mRESINS & PROITERES,StatusActive,21.0,Success
+635,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Aug 30, 2012 08:05 UTC",Atlas V 401 | Van Allen Probes (RBSP),StatusActive,109.0,Success
+637,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Aug 02, 2012 20:54 UTC","Ariane 5 ECA | Intelsat 20, HYLAS 2",StatusActive,200.0,Success
+638,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Sat Jul 28, 2012 01:35 UTC",Rokot/Briz KM | Cosmos 2481 & Goniets-M 13 and 15,StatusRetired,41.8,Success
+639,MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Jul 21, 2012 02:06 UTC",H-IIB | HTV-3,StatusRetired,112.5,Success
+640,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jul 05, 2012 21:36 UTC","Ariane 5 ECA | EchoStar XVII, MSG-3",StatusActive,200.0,Success
+641,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fri Jun 29, 2012 13:15 UTC",Delta IV Heavy | NROL-15,StatusActive,350.0,Success
+642,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Jun 20, 2012 12:28 UTC",Atlas V 401 | NROL-38,StatusActive,109.0,Success
+644,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Wed Jun 13, 2012 16:00 UTC",Pegasus XL | NuSTAR,StatusActive,40.0,Success
+647,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue May 22, 2012 07:44 UTC",Falcon 9 v1.0 | COTS-2+,StatusRetired,59.5,Success
+648,MHI,"LA-Y1, Tanegashima Space Center, Japan","Thu May 17, 2012 16:39 UTC","H-IIA 202 | Shizuku, KOMPSAT 3 & Others",StatusActive,90.0,Success
+649,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue May 15, 2012 22:13 UTC","Ariane 5 ECA | JCSAT-13, Vinasat-2",StatusActive,200.0,Success
+650,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri May 04, 2012 18:42 UTC",Atlas V 531 | AEHF-2,StatusActive,140.0,Success
+651,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Apr 26, 2012 00:17 UTC",PSLV-XL | RISAT-1,StatusActive,31.0,Success
+652,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Apr 26, 2012",PSLV-XL | PSLV- C19 RISAT-1,StatusActive,31.0,Success
+656,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Feb 24, 2012 22:15 UTC",Atlas V 551 | MUOS-1,StatusActive,153.0,Success
+657,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Mon Feb 13, 2012 10:00 UTC","Vega | Lares, AlmaSat-1 & 7 cubesats",StatusActive,37.0,Success
+660,Arianespace,"ELS, Guiana Space Centre, French Guiana, France","Sat Dec 17, 2011 02:03 UTC","Soyuz ST-A/Fregat | Pl??iades 1A, SSOT, Elisa",StatusActive,80.0,Success
+661,MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Dec 12, 2011 01:21 UTC",H-IIA 202 | IGS-Radar 3,StatusActive,90.0,Success
+662,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Nov 26, 2011 15:02 UTC",Atlas V 541 | Mars Science Laboratory,StatusActive,145.0,Success
+667,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Oct 12, 2011 05:31 UTC",PSLV-CA | Megha-Tropiques & Rideshares,StatusActive,21.0,Success
+670,Northrop,"LP-1, Pacific Spaceport Complex, Alaska, USA","Tue Sep 27, 2011 15:49 UTC",Minotaur IV | TacSat-4,StatusActive,46.0,Success
+672,MHI,"LA-Y1, Tanegashima Space Center, Japan","Fri Sep 23, 2011 04:36 UTC",H-IIA 202 | IGS-Optical 4,StatusActive,90.0,Success
+673,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Sep 21, 2011 21:38 UTC","Ariane 5 ECA | Arabsat-5C, SES-2",StatusActive,200.0,Success
+674,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sun Sep 11, 2011 11:17 UTC",H-IIA 202 | Michibiki 1,StatusActive,90.0,Success
+676,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Wed Aug 17, 2011 07:12 UTC",Dnepr | Sich 2 & Others,StatusRetired,29.0,Success
+677,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Aug 06, 2011 22:52 UTC","Ariane 5 ECA | Astra 1N, BSAT-3C (JCSAT-110R)",StatusActive,200.0,Success
+678,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Aug 05, 2011 16:25 UTC",Atlas V 551 | Juno,StatusActive,153.0,Success
+680,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sat Jul 16, 2011 06:41 UTC","Delta IV Medium+ (4,2) | GPS IIF-2",StatusRetired,164.0,Success
+681,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Fri Jul 15, 2011 11:18 UTC",PSLV-XL | GSAT-12,StatusActive,31.0,Success
+682,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 08, 2011 15:29 UTC",Space Shuttle Atlantis | STS-135,StatusRetired,450.0,Success
+683,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Thu Jun 30, 2011 03:09 UTC",Minotaur I | ORS-1,StatusActive,40.0,Success
+686,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri May 20, 2011 20:38 UTC","Ariane 5 ECA | ST-2, GSAT-8",StatusActive,200.0,Success
+687,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 16, 2011 12:56 UTC",Space Shuttle Endeavour | STS-134,StatusRetired,450.0,Success
+688,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat May 07, 2011 18:10 UTC",Atlas V 401 | SBIRS GEO-1,StatusActive,109.0,Success
+689,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Apr 22, 2011 21:37 UTC","Ariane 5 ECA | Yahsat 1A, Intelsat 28 (New Dawn)",StatusActive,200.0,Success
+690,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Apr 20, 2011 04:42 UTC",PSLV-G | ResourceSat-2 & X-Sat & YouthSat,StatusRetired,25.0,Success
+691,ULA,"SLC-3E, Vandenberg AFB, California, USA","Fri Apr 15, 2011 04:24 UTC",Atlas V 411 | NROL-34,StatusActive,115.0,Success
+692,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fri Mar 11, 2011 22:38 UTC","Delta IV Medium+ (4,2) | NROL-27",StatusRetired,164.0,Success
+693,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Mar 05, 2011 22:46 UTC",Atlas V 501 | OTV-2,StatusActive,120.0,Success
+694,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Fri Mar 04, 2011 10:09 UTC","Minotaur C (Taurus) | Glory, KySat-1, Hermes, and Explorer-1 [PRIME]",StatusActive,45.0,Failure
+695,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Feb 24, 2011 21:53 UTC",Space Shuttle Discovery | STS-133,StatusRetired,450.0,Success
+697,Northrop,"SLC-8, Vandenberg AFB, California, USA","Sun Feb 06, 2011 12:26 UTC",Minotaur I | NROL-66,StatusActive,40.0,Success
+698,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Feb 01, 2011 14:00 UTC",Rokot/Briz KM | Cosmos 2470,StatusRetired,41.8,Partial Failure
+699,MHI,"LA-Y2, Tanegashima Space Center, Japan","Sat Jan 22, 2011 05:37 UTC",H-IIB | HTV-2,StatusRetired,112.5,Success
+700,ULA,"SLC-6, Vandenberg AFB, California, USA","Thu Jan 20, 2011 21:10 UTC",Delta IV Heavy | NROL-49,StatusActive,350.0,Success
+702,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Dec 29, 2010 21:27 UTC","Ariane 5 ECA | Koreasat 6, Hispasat-1E",StatusActive,200.0,Success
+703,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sat Dec 25, 2010 10:34 UTC",GSLV Mk I | GSAT-5P,StatusRetired,47.0,Failure
+704,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Dec 08, 2010 15:43 UTC",Falcon 9 v1.0 | COTS-1,StatusRetired,59.5,Success
+705,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Nov 26, 2010 18:39 UTC","Ariane 5 ECA | Intelsat 17, HYLAS-1",StatusActive,200.0,Success
+706,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sun Nov 21, 2010 22:58 UTC",Delta IV Heavy | NROL-32,StatusActive,350.0,Success
+707,Northrop,"LP-1, Pacific Spaceport Complex, Alaska, USA","Sat Nov 20, 2010 01:25 UTC",Minotaur IV | STP-S26,StatusActive,46.0,Success
+709,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 28, 2010 23:51 UTC","Ariane 5 ECA | Eutelsat W3B, BSAT-3B",StatusActive,200.0,Success
+711,Northrop,"SLC-8, Vandenberg AFB, California, USA","Sun Sep 26, 2010 04:41 UTC",Minotaur IV | SBSS,StatusActive,46.0,Success
+712,ULA,"SLC-3E, Vandenberg AFB, California, USA","Tue Sep 21, 2010 04:03 UTC",Atlas V 501 | NROL-41,StatusActive,120.0,Success
+713,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Sep 08, 2010 03:30 UTC","Rokot/Briz KM | Cosmos 2467, 2468 and Goniets-M 12",StatusRetired,41.8,Success
+714,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Aug 14, 2010 11:07 UTC",Atlas V 531 | AEHF-1,StatusActive,140.0,Success
+715,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Aug 04, 2010 20:45 UTC","Ariane 5 ECA | Nilesat-201, Rascom-QAF 1R",StatusActive,200.0,Success
+716,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 12, 2010 03:52 UTC",PSLV-CA | Cartosat-2B & Rideshares,StatusActive,21.0,Success
+717,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Jun 26, 2010 21:41 UTC","Ariane 5 ECA | Arabsat-5A, COMS-1",StatusActive,200.0,Success
+719,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Mon Jun 21, 2010 02:14 UTC",Dnepr | TanDEM-X,StatusRetired,29.0,Success
+720,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Tue Jun 15, 2010 14:42 UTC",Dnepr | Picard & Others,StatusRetired,29.0,Success
+722,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Jun 04, 2010 18:45 UTC",Falcon 9 v1.0 | Flight 1,StatusRetired,59.5,Success
+723,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Jun 02, 2010 01:59 UTC",Rokot/Briz KM | SERVIS-2,StatusRetired,41.8,Success
+724,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fri May 28, 2010 03:00 UTC","Delta IV Medium+ (4,2) | GPS IIF-1",StatusRetired,164.0,Success
+725,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri May 21, 2010 22:01 UTC",Ariane 5 ECA | Astra 3B  & COMSATBw-2,StatusActive,200.0,Success
+726,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 14, 2010 18:20 UTC",Space Shuttle Atlantis | STS-132,StatusRetired,450.0,Success
+727,MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon May 10, 2010 21:58 UTC","H-IIA 202 | Akatsuki, IKAROS & Others",StatusActive,90.0,Success
+730,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Apr 22, 2010 23:52 UTC",Atlas V 501 | OTV-1,StatusActive,120.0,Success
+731,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu Apr 15, 2010 10:57 UTC",GSLV Mk II | GSAT-4,StatusActive,47.0,Failure
+732,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Thu Apr 08, 2010 13:57 UTC",Dnepr | CryoSat-2,StatusRetired,29.0,Success
+733,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Apr 05, 2010 10:21 UTC",Space Shuttle Discovery | STS-131,StatusRetired,450.0,Success
+735,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Thu Mar 04, 2010 23:57 UTC","Delta IV Medium+ (4,2) | GOES 15",StatusRetired,164.0,Success
+736,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Feb 11, 2010 15:23 UTC",Atlas V 401 | SDO,StatusActive,109.0,Success
+737,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Feb 08, 2010 09:14 UTC",Space Shuttle Endeavour | STS-130,StatusRetired,450.0,Success
+743,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Nov 28, 2009 01:21 UTC",H-IIA 202 | IGS-Optical 3,StatusActive,90.0,Success
+744,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Nov 23, 2009 06:55 UTC",Atlas V 431 | Intersat 14,StatusActive,130.0,Success
+745,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Nov 16, 2009 19:28 UTC",Space Shuttle Atlantis | STS-129,StatusRetired,450.0,Success
+746,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Mon Nov 02, 2009 01:50 UTC",Rokot/Briz KM | SMOS and Proba-2,StatusRetired,41.8,Success
+747,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 29, 2009 20:00 UTC",Ariane 5 ECA | NSS-12 & Thor-6,StatusActive,200.0,Success
+748,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Oct 28, 2009 15:30 UTC",Ares 1-X | Ares 1-X Test Flight,StatusRetired,450.0,Success
+749,ULA,"SLC-3E, Vandenberg AFB, California, USA","Sun Oct 18, 2009 16:12 UTC",Atlas V 401 | DMSP-5D3-F18,StatusActive,109.0,Success
+751,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 01, 2009 21:59 UTC",Ariane 5 ECA | Amazonas 2 & COMSATBw-1,StatusActive,200.0,Success
+753,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Sep 23, 2009 06:21 UTC",PSLV-CA | Oceansat-2 & Rideshares,StatusActive,21.0,Success
+754,MHI,"LA-Y2, Tanegashima Space Center, Japan","Thu Sep 10, 2009 17:01 UTC",H-IIB | HTV-1,StatusRetired,112.5,Success
+755,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Sep 08, 2009 21:35 UTC",Atlas V 401 | PAN,StatusActive,109.0,Success
+756,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 28, 2009 03:59 UTC",Space Shuttle Discovery | STS-128,StatusRetired,450.0,Success
+758,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Aug 21, 2009 22:09 UTC",Ariane 5 ECA | JCSAT-12 & Optus D3,StatusActive,200.0,Success
+760,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Wed Jul 29, 2009 18:46 UTC",Dnepr | DubaiSat 1 & Others,StatusRetired,29.0,Success
+762,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 15, 2009 22:03 UTC",Space Shuttle Endeavour | STS-127,StatusRetired,450.0,Success
+763,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Tue Jul 14, 2009 03:35 UTC",Falcon 1 | RazakSat,StatusRetired,7.0,Success
+764,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Mon Jul 06, 2009 01:26 UTC",Rokot/Briz KM | Cosmos 2451 to 2453,StatusRetired,41.8,Success
+765,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Jul 01, 2009 19:52 UTC",Ariane 5 ECA | TerreStar-1,StatusActive,200.0,Success
+766,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sat Jun 27, 2009 22:51 UTC","Delta IV Medium+ (4,2) | GOES-O",StatusRetired,164.0,Success
+768,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jun 18, 2009 17:32 UTC",Atlas V 421 | LRO/LCROSS,StatusActive,123.0,Success
+769,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Tue May 19, 2009 23:55 UTC",Minotaur I | TacSat-3 / PharmaSat / AeroCube 3 / HawkSat I / CP6,StatusActive,40.0,Success
+770,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu May 14, 2009 13:12 UTC",Ariane 5 ECA | Herschel Space Observatory & Planck,StatusActive,200.0,Success
+771,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 11, 2009 18:01 UTC",Space Shuttle Atlantis | STS-125,StatusRetired,450.0,Success
+774,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Apr 20, 2009 01:15 UTC",PSLV-CA | RISAT-2 & ANUSAT,StatusActive,21.0,Success
+776,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Apr 04, 2009 00:31 UTC",Atlas V 421 | WGS-2,StatusActive,123.0,Success
+778,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Mar 17, 2009 14:21 UTC",Rokot/Briz KM | GOCE,StatusRetired,41.8,Success
+779,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Mar 15, 2009 23:43 UTC",Space Shuttle Discovery | STS-119,StatusRetired,450.0,Success
+782,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Tue Feb 24, 2009 09:55 UTC",Minotaur C (Taurus) | Orbiting Carbon Observatory,StatusActive,45.0,Failure
+783,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Feb 12, 2009 22:09 UTC","Ariane 5 ECA | Hot Bird 10, NSS-9, Spirale-A & B",StatusActive,200.0,Success
+787,MHI,"LA-Y1, Tanegashima Space Center, Japan","Fri Jan 23, 2009 03:54 UTC","H-IIA 202 | Ibuki, Maido 1 & Others",StatusActive,90.0,Success
+788,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sun Jan 18, 2009 02:47 UTC",Delta IV Heavy | NROL-26,StatusActive,350.0,Success
+789,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Dec 20, 2008 22:35 UTC",Ariane 5 ECA | Hot Bird 9 & Eutelsat W2M,StatusActive,200.0,Success
+791,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Nov 15, 2008 00:55 UTC",Space Shuttle Endeavour | STS-126,StatusRetired,450.0,Success
+792,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Nov 05, 2008 00:15 UTC",Long March 2D | Shiyan-3 & Chuangxin-1(02),StatusActive,29.75,Success
+793,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Nov 05, 2008 00:15 UTC",Long March 2D | Shiyan-3 & Chuangxin-1(02),StatusActive,29.75,Success
+794,CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Oct 29, 2008 16:53 UTC",Long March 3B/E | VENESAT 1,StatusActive,29.15,Success
+796,CASC,"LC-9, Taiyuan Satellite Launch Center, China","Sat Oct 25, 2008 01:15 UTC",Long March 4B | Shijian-6E & F,StatusActive,64.68,Success
+797,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Oct 22, 2008 00:52 UTC",PSLV-XL | Chandrayaan-1,StatusActive,31.0,Success
+798,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Sun Oct 19, 2008 17:47 UTC",Pegasus XL | IBEX,StatusActive,40.0,Success
+799,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Wed Oct 01, 2008 06:37 UTC",Dnepr | THEOS 1,StatusRetired,29.0,Success
+800,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Sun Sep 28, 2008 23:15 UTC",Falcon 1 | RatSat,StatusRetired,7.0,Success
+805,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Fri Aug 29, 2008 07:15 UTC",Dnepr | RapidEye 1 to 5,StatusRetired,29.0,Success
+807,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Aug 14, 2008 20:44 UTC",Ariane 5 ECA | Superbird-7 & AMC-21,StatusActive,200.0,Success
+808,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Sun Aug 03, 2008 03:34 UTC",Falcon 1 | Flight 3,StatusRetired,7.0,Failure
+811,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Mon Jul 07, 2008 21:47 UTC",Ariane 5 ECA | ProtoStar-1 & Badr-6,StatusActive,200.0,Success
+814,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jun 12, 2008 22:05 UTC",Ariane 5 ECA | Skynet 5C & Turksat 3A,StatusActive,200.0,Success
+817,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat May 31, 2008 21:02 UTC",Space Shuttle Discovery | STS-124,StatusRetired,450.0,Success
+818,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Tue May 27, 2008 03:02 UTC",Long March 4C | Fengyun-3A,StatusActive,64.68,Success
+819,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri May 23, 2008 15:20 UTC","Rokot/Briz KM | Cosmos 2437 to 2439, Youbilielnyi",StatusRetired,41.8,Success
+822,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Apr 28, 2008 03:53 UTC",PSLV-CA | Cartosat-2A & Rideshares,StatusActive,21.0,Success
+823,CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Apr 25, 2008 15:35 UTC",Long March 3C | Tianlian I-01,StatusActive,20.14,Success
+824,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Apr 18, 2008 22:17 UTC",Ariane 5 ECA | Star One C2 & Vinasat-1,StatusActive,200.0,Success
+825,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Tue Apr 15, 2008 17:01 UTC",Pegasus XL | C/NOFS,StatusActive,40.0,Success
+826,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Apr 14, 2008 20:12 UTC",Atlas V 421 | ICO G1,StatusActive,123.0,Success
+830,ULA,"SLC-3E, Vandenberg AFB, California, USA","Thu Mar 13, 2008 10:02 UTC",Atlas V 411 | NROL-28,StatusActive,115.0,Success
+831,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Mar 11, 2008 06:28 UTC",Space Shuttle Endeavour | STS-123,StatusRetired,450.0,Success
+833,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Feb 23, 2008 08:55 UTC",H-IIA 202 | Kizuna,StatusActive,90.0,Success
+834,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Feb 07, 2008 19:45 UTC",Space Shuttle Atlantis | STS-122,StatusRetired,450.0,Success
+835,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Jan 21, 2008 03:45 UTC",PSLV-CA | TecSAR,StatusActive,21.0,Success
+839,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Dec 10, 2007 22:05 UTC",Atlas V 401 | NROL-24,StatusActive,109.0,Success
+841,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Nov 14, 2007 22:03 UTC",Ariane 5 ECA | Skynet 5B & Star One C1,StatusActive,200.0,Success
+842,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Sun Nov 11, 2007 22:48 UTC",Long March 4C | Yaogan 3,StatusActive,64.68,Success
+843,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sun Nov 11, 2007 01:50 UTC",Delta IV Heavy | DSP-23,StatusActive,350.0,Success
+847,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Oct 23, 2007 03:38 UTC",Space Shuttle Discovery | STS-120,StatusRetired,450.0,Success
+849,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Oct 11, 2007 00:22 UTC",Atlas V 421 | WSG-1,StatusActive,123.0,Success
+852,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed Sep 19, 2007 03:26 UTC",Long March 4B | CBERS-2B,StatusActive,64.68,Success
+856,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sun Sep 02, 2007 12:51 UTC",GSLV Mk I | INSAT-4CR,StatusRetired,47.0,Partial Failure
+857,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Aug 14, 2007 23:44 UTC",Ariane 5 ECA | Spaceway-3 & BSat-3A,StatusActive,200.0,Success
+858,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Aug 08, 2007 22:36 UTC",Space Shuttle Endeavour | STS-118,StatusRetired,450.0,Success
+863,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Thu Jun 28, 2007 15:02 UTC",Dnepr | Genesis 2,StatusRetired,29.0,Success
+864,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Jun 15, 2007 15:11 UTC",Atlas V 401 | NROL-30 & NOSS-3,StatusActive,109.0,Partial Failure
+865,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 2007 02:14 UTC",Dnepr | TerraSAR-X,StatusRetired,29.0,Success
+867,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jun 08, 2007 23:38 UTC",Space Shuttle Atlantis | STS-117,StatusRetired,450.0,Success
+869,CASC,"LC-2, Xichang Satellite Launch Center, China","Thu May 31, 2007 16:08 UTC",Long March 3A | SinoSat 3,StatusActive,69.7,Success
+870,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri May 25, 2007 07:12 UTC",Long March 2D | Yaogan 2 & ZDPS-1,StatusActive,29.75,Success
+871,CASC,"LC-2, Xichang Satellite Launch Center, China","Sun May 13, 2007 16:01 UTC",Long March 3B/E | NIGCOMSAT-1,StatusActive,29.15,Success
+872,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri May 04, 2007 22:29 UTC",Ariane 5 ECA | Astra 1L & Galaxy 17,StatusActive,200.0,Success
+873,Northrop,"Stargazer, Vandenberg AFB, California, USA","Wed Apr 25, 2007 20:26 UTC",Pegasus XL | AIM,StatusActive,40.0,Success
+874,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Tue Apr 24, 2007 06:48 UTC",Minotaur I | NFIRE,StatusActive,40.0,Success
+875,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Apr 23, 2007 10:00 UTC",PSLV-CA | AGILE & AAM,StatusActive,21.0,Success
+876,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Tue Apr 17, 2007 06:46 UTC",Dnepr | EgyptSat 1 & Others,StatusRetired,29.0,Success
+877,CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Apr 13, 2007 20:11 UTC",Long March 3A | Compass-M1,StatusActive,69.7,Success
+878,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed Apr 11, 2007 03:27 UTC",Long March 2C | Haiyang-1B,StatusActive,30.8,Success
+879,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Wed Mar 21, 2007 01:10 UTC",Falcon 1 | DemoSat,StatusRetired,7.0,Failure
+880,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sun Mar 11, 2007 22:03 UTC",Ariane 5 ECA | Skynet 5A & INSAT-4B,StatusActive,200.0,Success
+881,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Mar 09, 2007 03:10 UTC","Atlas V 401 | STP-1, FalconSat-3",StatusActive,109.0,Success
+884,CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Feb 02, 2007 16:28 UTC",Long March 3A | Beidou-1D,StatusActive,69.7,Success
+886,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Jan 10, 2007 03:54 UTC",PSLV-G | Cartosat-2 & SRE-1 & Rideshares,StatusRetired,25.0,Success
+889,Northrop,"LP-0B, Wallops Flight Facility, Virginia, USA","Sat Dec 16, 2006 12:00 UTC",Minotaur I | TacSat-2 & GeneSat-1,StatusActive,40.0,Success
+891,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun Dec 10, 2006 00:47 UTC",Space Shuttle Discovery | STS-116,StatusRetired,450.0,Success
+892,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Dec 08, 2006 22:08 UTC",Ariane 5 ECA | WildBlue-1 & AMC-18,StatusActive,200.0,Success
+893,CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Dec 08, 2006 00:53 UTC",Long March 3A | Fengyun-2D,StatusActive,69.7,Success
+895,Boeing,"SLC-6, Vandenberg AFB, California, USA","Sat Nov 04, 2006 13:53 UTC",Delta IV Medium | DMSP F17,StatusRetired,133.0,Success
+899,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Mon Oct 23, 2006 23:34 UTC",Long March 4B | Shijian-6C & 6D,StatusActive,64.68,Success
+900,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Oct 13, 2006 20:56 UTC","Ariane 5 ECA | DirecTV-9S, Optus D1, LDREX-2",StatusActive,200.0,Success
+903,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Sep 12, 2006 16:02 UTC",Long March 3A | Chinasat-22A,StatusActive,69.7,Success
+904,MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Sep 11, 2006 04:35 UTC",H-IIA 202 | IGS-Optical 2,StatusActive,90.0,Success
+905,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sat Sep 09, 2006 15:14 UTC",Space Shuttle Atlantis | STS-115,StatusRetired,450.0,Success
+906,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Sep 09, 2006 07:00 UTC",Long March 2C | Shijian-8,StatusActive,30.8,Success
+908,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Fri Aug 11, 2006 22:15 UTC",Ariane 5 ECA | JCSAT-10 & Syracuse 3B,StatusActive,200.0,Success
+909,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Jul 28, 2006 07:05 UTC",Rokot/Briz KM | KompSat-2,StatusRetired,41.8,Success
+910,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Wed Jul 26, 2006 19:43 UTC",Dnepr | BelKa 1 & Others,StatusRetired,29.0,Failure
+912,Kosmotras,"Site 370/13, Yasny Cosmodrome, Russia","Wed Jul 12, 2006 14:53 UTC",Dnepr | Genesis 1,StatusRetired,29.0,Success
+913,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 10, 2006 12:08 UTC",GSLV Mk I | INSAT-4C,StatusRetired,47.0,Failure
+914,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Tue Jul 04, 2006 18:37 UTC",Space Shuttle Discovery | STS-121,StatusRetired,450.0,Success
+915,Boeing,"SLC-6, Vandenberg AFB, California, USA","Wed Jun 28, 2006 03:33 UTC","Delta IV Medium+ (4,2) | NROL-22",StatusRetired,164.0,Success
+919,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat May 27, 2006 21:09 UTC",Ariane 5 ECA | Satmex-6 & Thaicom-5,StatusActive,200.0,Success
+921,Boeing,"SLC-37B, Cape Canaveral AFS, Florida, USA","Wed May 24, 2006 22:11 UTC","Delta IV Medium+ (4,2) | GOES-N (GOES-13)",StatusRetired,164.0,Success
+923,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed Apr 26, 2006 22:48 UTC",Long March 4C | Yaogan 1,StatusActive,64.68,Success
+925,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Apr 20, 2006 20:27 UTC",Atlas V 411 | Astra 1KR,StatusActive,115.0,Success
+926,Northrop,"SLC-8, Vandenberg AFB, California, USA","Sat Apr 15, 2006 01:40 UTC",Minotaur I | COSMIC (FORMOSAT-3),StatusActive,40.0,Success
+928,Northrop,"Stargazer, Vandenberg AFB, California, USA","Tue Mar 28, 2006 20:10 UTC",Pegasus XL | ST-5,StatusActive,40.0,Success
+929,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Fri Mar 24, 2006 21:30 UTC",Falcon 1 | FalconSat-2,StatusRetired,7.0,Failure
+930,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Mar 11, 2006 22:33 UTC",Ariane 5 ECA | Spainsat & Hot Bird 7A,StatusActive,200.0,Success
+935,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jan 19, 2006 19:00 UTC",Atlas V 551 | New Horizons,StatusActive,153.0,Success
+938,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Nov 16, 2005 23:46 UTC",Ariane 5 ECA | Spaceway-2 & Telkom-2,StatusActive,200.0,Success
+944,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Sat Oct 08, 2005 15:02 UTC",Rokot/Briz KM | CryoSat-1,StatusRetired,41.8,Failure
+946,Northrop,"SLC-8, Vandenberg AFB, California, USA","Thu Sep 22, 2005 19:24 UTC",Minotaur I | Streak (STP-R1),StatusActive,40.0,Success
+947,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Aug 29, 2005 08:45 UTC",Long March 2D | FSW-3 No. 3,StatusActive,29.75,Success
+948,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Aug 26, 2005 18:34 UTC",Rokot/Briz KM | Monitor-E,StatusRetired,41.8,Success
+949,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Tue Aug 23, 2005 21:09 UTC",Dnepr | Kirari and Reimei,StatusRetired,29.0,Success
+950,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Aug 12, 2005 11:43 UTC",Atlas V 401 | Mars Reconnaissance Orbiter,StatusActive,109.0,Success
+952,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Aug 02, 2005 07:30 UTC",Long March 2C | FSW-4 No. 2,StatusActive,30.8,Success
+953,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Tue Jul 26, 2005 14:39 UTC",Space Shuttle Discovery | STS-114,StatusRetired,450.0,Success
+955,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Jul 05, 2005 22:40 UTC",Long March 2D | Shijian-7,StatusActive,29.75,Success
+960,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Thu May 05, 2005 04:45 UTC",PSLV-G | Cartosat-1 & HAMSAT,StatusRetired,25.0,Success
+963,Northrop,"Stargazer, Vandenberg AFB, California, USA","Fri Apr 15, 2005 17:27 UTC",Pegasus XL | DART,StatusActive,40.0,Success
+965,Northrop,"SLC-8, Vandenberg AFB, California, USA","Mon Apr 11, 2005 13:35 UTC",Minotaur I | XSS-11,StatusActive,40.0,Success
+966,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Mar 11, 2005 21:42 UTC",Atlas V 431 | Inmarsat-4 F1,StatusActive,130.0,Success
+969,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Feb 12, 2005 21:03 UTC","Ariane 5 ECA | XTAR-EUR, Maqsat-B2, Sloshsat-FLEVO",StatusActive,200.0,Success
+974,Boeing,"SLC-37B, Cape Canaveral AFS, Florida, USA","Tue Dec 21, 2004 21:50 UTC",Delta IV Heavy | DemoSat and 3CS-1 & 2,StatusActive,350.0,Partial Failure
+975,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sat Dec 18, 2004 16:26 UTC","Ariane 5 G+ | Helios 2A, Essaim-1,2,3,4, PARASOL, Nanosat 01",StatusRetired,190.0,Success
+976,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Dec 17, 2004 12:07 UTC",Atlas V 521 | AMC-16,StatusActive,135.0,Success
+978,CASC,"LC-3, Xichang Satellite Launch Center, China","Thu Nov 18, 2004 10:45 UTC",Long March 2C | Shiyan-2,StatusActive,30.8,Success
+979,VKS RF,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Nov 08, 2004 18:29 UTC",Soyuz 2.1a | Demo Flight,StatusActive,48.5,Success
+981,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Sat Nov 06, 2004 03:10 UTC",Long March 4B | Ziyuan ll-03,StatusActive,64.68,Success
+982,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Oct 19, 2004 01:20 UTC",Long March 3A | Fengyun-2C,StatusActive,69.7,Success
+983,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Sep 27, 2004 08:00 UTC",Long March 2D | FSW-3 No.2,StatusActive,29.75,Success
+985,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 20, 2004 10:31 UTC",GSLV Mk I | GSAT-3,StatusRetired,47.0,Success
+986,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed Sep 08, 2004 23:14 UTC",Long March 4B | Shijian-6A & 6B,StatusActive,64.68,Success
+989,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Aug 29, 2004 07:50 UTC",Long March 2C | FSW-4 No.1,StatusActive,30.8,Success
+991,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Sun Jul 25, 2004 07:05 UTC",Long March 2C | Double Star 2,StatusActive,30.8,Success
+993,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Sun Jul 18, 2004 00:44 UTC",Ariane 5 G+ | Anik F2,StatusRetired,190.0,Success
+995,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Tue Jun 29, 2004 06:30 UTC",Dnepr | DEMETER & Others,StatusRetired,29.0,Success
+1000,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Thu May 20, 2004 17:47 UTC",Minotaur C (Taurus) | ROCSAT-2,StatusActive,45.0,Success
+1004,CASC,"LC-3, Xichang Satellite Launch Center, China","Sun Apr 18, 2004 15:59 UTC",Long March 2C | Shiyan-1 & Nano Satellite 1,StatusActive,30.8,Success
+1008,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Mar 02, 2004 07:17 UTC",Ariane 5 G+ | Rosetta & Philae,StatusRetired,190.0,Success
+1013,CASC,"LC-3, Xichang Satellite Launch Center, China","Mon Dec 29, 2003 19:06 UTC",Long March 2C | Double Star 1,StatusActive,30.8,Success
+1019,CASC,"LC-2, Xichang Satellite Launch Center, China","Fri Nov 14, 2003 16:01 UTC",Long March 3A | Chinasat-20,StatusActive,69.7,Success
+1020,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Nov 03, 2003 07:20 UTC",Long March 2D | FSW-3 No.1,StatusActive,29.75,Success
+1021,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Oct 30, 2003 13:43 UTC",Rokot/Briz KM | SERVIS-1,StatusRetired,41.8,Success
+1022,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Tue Oct 21, 2003 03:16 UTC",Long March 4B | CBERS-2 & Chuangxin 1(01),StatusActive,64.68,Success
+1023,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Sat Oct 18, 2003 16:17 UTC",Titan II(23)G | USA-172,StatusRetired,35.0,Success
+1024,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Fri Oct 17, 2003 04:52 UTC",PSLV-G | RESOURCESAT-1 (IRS-P6),StatusRetired,25.0,Success
+1031,Boeing,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fri Aug 29, 2003 23:13 UTC",Delta IV Medium | DSCS-3 B6,StatusRetired,133.0,Success
+1035,Northrop,"Stargazer, Vandenberg AFB, California, USA","Wed Aug 13, 2003 02:09 UTC",Pegasus XL | SCISAT-1,StatusActive,40.0,Success
+1037,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jul 17, 2003 23:45 UTC",Atlas V 521 | Rainbow 1,StatusActive,135.0,Success
+1039,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Mon Jun 30, 2003 14:15 UTC",Rokot/Briz KM | Monitor-E GVM & Others,StatusRetired,41.8,Success
+1040,Northrop,"Stargazer, Vandenberg AFB, California, USA","Thu Jun 26, 2003 18:55 UTC",Pegasus XL | OrbView-3,StatusActive,40.0,Success
+1047,CASC,"LC-2, Xichang Satellite Launch Center, China","Sat May 24, 2003 16:34 UTC",Long March 3A | Beidou-1C,StatusActive,69.7,Success
+1048,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue May 13, 2003 22:10 UTC",Atlas V 401 | HellasSat-2,StatusActive,109.0,Success
+1050,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu May 08, 2003 11:28 UTC",GSLV Mk I | GSAT-2,StatusRetired,47.0,Success
+1051,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA","Mon Apr 28, 2003 12:00 UTC",Pegasus XL | GALEX,StatusActive,40.0,Success
+1058,Boeing,"SLC-37B, Cape Canaveral AFS, Florida, USA","Tue Mar 11, 2003 00:59 UTC",Delta IV Medium | DSCS-3 A3,StatusRetired,133.0,Success
+1061,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA","Sat Jan 25, 2003 20:13 UTC",Pegasus XL | SORCE,StatusActive,40.0,Success
+1062,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jan 16, 2003 15:39 UTC",Space Shuttle Columbia | STS-107,StatusRetired,450.0,Failure
+1064,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Mon Jan 06, 2003 14:19 UTC",Titan II(23)G | Coriolis,StatusRetired,35.0,Success
+1067,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Fri Dec 20, 2002",Dnepr | Rubin 2 & Others,StatusRetired,29.0,Success
+1069,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Dec 14, 2002 01:31 UTC","H-IIA 202 | Midori 2, WEOS & Others",StatusActive,90.0,Success
+1070,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Wed Dec 11, 2002 22:22 UTC","Ariane 5 ECA | Hot Bird 7, Stentor, MFD-A, MFD-B",StatusActive,200.0,Failure
+1073,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Nov 24, 2002 00:49 UTC",Space Shuttle Endeavour | STS-113,StatusRetired,450.0,Success
+1074,Boeing,"SLC-37B, Cape Canaveral AFS, Florida, USA","Wed Nov 20, 2002 22:39 UTC","Delta IV Medium+ (4,2) | Eutelsat W5",StatusRetired,164.0,Success
+1075,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Sun Oct 27, 2002 03:17 UTC",Long March 4B | Ziyuan ll-02,StatusActive,64.68,Success
+1076,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Mon Oct 07, 2002 19:45 UTC",Space Shuttle Atlantis | STS-112,StatusRetired,450.0,Success
+1080,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Sep 12, 2002 10:23 UTC",PSLV-G | C4 - MetSat-1 (Kalpana-1),StatusRetired,25.0,Success
+1084,ILS,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Aug 21, 2002 22:05 UTC",Atlas V 401 | Hot Bird 6,StatusActive,109.0,Success
+1089,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Mon Jun 24, 2002 18:23 UTC",Titan II(23)G | NOAA-17,StatusRetired,35.0,Success
+1090,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Jun 20, 2002 09:33 UTC",Rokot/Briz KM | Iridium SV97 and SV98,StatusRetired,41.8,Success
+1092,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jun 05, 2002 21:22 UTC",Space Shuttle Endeavour | STS-111,StatusRetired,450.0,Success
+1096,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed May 15, 2002 01:50 UTC",Long March 4B | Fengyun-1D & Haiyang-1A,StatusActive,64.68,Success
+1099,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Mon Apr 08, 2002 20:44 UTC",Space Shuttle Atlantis | STS-110,StatusRetired,450.0,Success
+1103,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Sun Mar 17, 2002 09:21 UTC",Rokot/Briz KM | GRACE 1 & 2,StatusRetired,41.8,Success
+1105,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Mar 01, 2002 11:22 UTC",Space Shuttle Columbia | STS-109,StatusRetired,450.0,Success
+1110,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA","Tue Feb 05, 2002 20:58 UTC",Pegasus XL | RHESSI,StatusActive,40.0,Success
+1118,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Dec 05, 2001 22:19 UTC",Space Shuttle Endeavour | STS-108,StatusRetired,450.0,Success
+1121,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Oct 22, 2001 10:23 UTC","PSLV-G | TES, BIRD & PROBA",StatusRetired,25.0,Success
+1127,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Fri Sep 21, 2001 18:49 UTC",Minotaur C (Taurus) | Orbview-4/QuikTOMS,StatusActive,45.0,Failure
+1130,MHI,"LA-Y1, Tanegashima Space Center, Japan","Wed Aug 29, 2001 07:00 UTC",H-IIA 202 | VEP 2 & LRE,StatusActive,90.0,Success
+1131,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 10, 2001 21:10 UTC",Space Shuttle Discovery | STS-105,StatusRetired,450.0,Success
+1137,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Jul 12, 2001 09:03 UTC",Space Shuttle Atlantis | STS-104,StatusRetired,450.0,Success
+1144,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 19, 2001 18:40 UTC",Space Shuttle Endeavour | STS-100,StatusRetired,450.0,Success
+1145,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Apr 18, 2001 10:13 UTC",GSLV Mk I | GSAT-1,StatusRetired,47.0,Partial Failure
+1149,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Mar 08, 2001 11:42 UTC",Space Shuttle Discovery | STS-102,StatusRetired,450.0,Success
+1152,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Feb 07, 2001 23:13 UTC",Space Shuttle Atlantis | STS-98,StatusRetired,450.0,Success
+1158,CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Dec 20, 2000 16:20 UTC",Long March 3A | Beidou-1B,StatusActive,69.7,Success
+1162,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Nov 30, 2000 03:06 UTC",Space Shuttle Endeavour | STS-97,StatusRetired,450.0,Success
+1168,CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Oct 30, 2000 16:02 UTC",Long March 3A | Beidou-1A,StatusActive,69.7,Success
+1172,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Oct 11, 2000 23:17 UTC",Space Shuttle Discovery | STS-92,StatusRetired,450.0,Success
+1173,Northrop,"Stargazer, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Mon Oct 09, 2000 05:38 UTC",Pegasus | HETE 2,StatusRetired,40.0,Success
+1175,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Tue Sep 26, 2000 10:05 UTC",Dnepr | Megsat 1 & Others,StatusRetired,29.0,Success
+1177,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Thu Sep 21, 2000 10:22 UTC",Titan II(23)G | NOAA-16,StatusRetired,35.0,Success
+1179,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Sep 08, 2000 12:45 UTC",Space Shuttle Atlantis | STS-106,StatusRetired,450.0,Success
+1185,Northrop,"SLC-8, Vandenberg AFB, California, USA","Wed Jul 19, 2000 20:09 UTC",Minotaur I | MightySat 2.1,StatusActive,40.0,Success
+1192,Northrop,"Stargazer, Vandenberg AFB, California, USA","Wed Jun 07, 2000 13:19 UTC",Pegasus XL | TSX-5,StatusActive,40.0,Success
+1194,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri May 19, 2000 10:11 UTC",Space Shuttle Atlantis | STS-101,StatusRetired,450.0,Success
+1195,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue May 16, 2000 08:27 UTC",Rokot/Briz KM | SimSat 1 & 2 (Iridium),StatusRetired,41.8,Success
+1203,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Sun Mar 12, 2000 09:29 UTC",Minotaur C (Taurus) | Multispectral Thermal Imager (MTI),StatusActive,45.0,Success
+1206,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 11, 2000 16:43 UTC",Space Shuttle Endeavour | STS-99,StatusRetired,450.0,Success
+1210,Northrop,"SLC-8, Vandenberg AFB, California, USA","Thu Jan 27, 2000 03:03 UTC",Minotaur I | JAWSat,StatusActive,40.0,Success
+1211,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Jan 25, 2000 16:45 UTC",Long March 3A | ChinaSat-22,StatusActive,69.7,Success
+1214,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Fri Dec 31, 1999 07:13 UTC",Minotaur C (Taurus) | KOMPSAT & ACRIMSAT,StatusActive,45.0,Success
+1218,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Dec 20, 1999 00:50 UTC",Space Shuttle Discovery | STS-103,StatusRetired,450.0,Success
+1220,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Sun Dec 12, 1999 17:36 UTC",Titan II(23)G | USA-147,StatusRetired,35.0,Success
+1223,Northrop,"Stargazer, Vandenberg AFB, California, USA","Sat Dec 04, 1999 18:53 UTC",Pegasus XL/HAPS | Orbcomm D1-D8,StatusActive,40.0,Success
+1230,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Thu Oct 14, 1999 03:15 UTC",Long March 4B | CBERS-1 & SACI 1,StatusActive,64.68,Success
+1241,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Jul 23, 1999 04:31 UTC",Space Shuttle Columbia | STS-93,StatusRetired,450.0,Success
+1246,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Sun Jun 20, 1999 02:15 UTC",Titan II(23)G | QuikSCAT,StatusRetired,35.0,Success
+1247,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Fri Jun 11, 1999 17:15 UTC",Long March 2C | Iridium 92 & 93,StatusActive,30.8,Success
+1249,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sat May 29, 1999 11:52 UTC","PSLV-G | IRS-P4, DLR-Tubsat, & Kitsat-3",StatusRetired,25.0,Success
+1250,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu May 27, 1999 10:49 UTC",Space Shuttle Discovery | STS-96,StatusRetired,450.0,Success
+1252,Northrop,"Stargazer, Vandenberg AFB, California, USA","Tue May 18, 1999 05:09 UTC",Pegasus XL/HAPS | TERRIERS & MUBLCOM,StatusActive,40.0,Success
+1253,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Mon May 10, 1999 01:33 UTC",Long March 4B | Fengyun 1C & Shijian-5,StatusActive,64.68,Success
+1258,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Wed Apr 21, 1999",Dnepr | UoSat 12,StatusRetired,29.0,Success
+1264,Northrop,"Stargazer, Vandenberg AFB, California, USA","Fri Mar 05, 1999 02:56 UTC",Pegasus XL | WIRE,StatusActive,40.0,Success
+1273,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Sat Dec 19, 1998 11:39 UTC",Long March 2C | Iridium 88 & 89,StatusActive,30.8,Success
+1276,Northrop,"Stargazer, Vandenberg AFB, California, USA","Sun Dec 06, 1998 00:57 UTC",Pegasus XL | SWAS,StatusActive,40.0,Success
+1278,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Dec 04, 1998 08:35 UTC",Space Shuttle Endeavour | STS-88,StatusRetired,450.0,Success
+1281,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Oct 29, 1998 19:19 UTC",Space Shuttle Discovery | STS-95,StatusRetired,450.0,Success
+1283,Northrop,"Stargazer, Cape Canaveral AFS, Florida, USA","Thu Oct 22, 1998 00:02 UTC",Pegasus | SCD-2,StatusRetired,40.0,Success
+1288,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Sat Oct 03, 1998 10:04 UTC",Minotaur C (Taurus) | STEX (NROL-8),StatusActive,45.0,Success
+1290,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA","Wed Sep 23, 1998 05:06 UTC",Pegasus XL/HAPS | Orbcomm C1 - C8,StatusActive,40.0,Success
+1298,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed Aug 19, 1998 23:01 UTC",Long March 2C | Iridium 76 & 78,StatusActive,30.8,Success
+1301,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA","Sun Aug 02, 1998 16:24 UTC",Pegasus XL/HAPS | Orbcomm B1 - B8,StatusActive,40.0,Success
+1311,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jun 02, 1998 22:06 UTC",Space Shuttle Discovery | STS-91,StatusRetired,450.0,Success
+1314,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Wed May 13, 1998 15:52 UTC",Titan II(23)G | NOAA-15,StatusRetired,35.0,Success
+1317,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Sat May 02, 1998 09:16 UTC",Long March 2C | Iridium 69 & 71,StatusActive,30.8,Success
+1320,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Apr 17, 1998 18:19 UTC",Space Shuttle Columbia | STS-90,StatusRetired,450.0,Success
+1321,Northrop,"Stargazer, Vandenberg AFB, California, USA","Thu Apr 02, 1998 16:24 UTC",Pegasus XL | TRACE,StatusActive,40.0,Success
+1323,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Wed Mar 25, 1998 17:01 UTC",Long March 2C | Iridium 51 & 61,StatusActive,30.8,Success
+1328,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA","Thu Feb 26, 1998 07:07 UTC",Pegasus XL | SNOE & BATSAT,StatusActive,40.0,Success
+1332,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Tue Feb 10, 1998 13:20 UTC",Minotaur C (Taurus) | GFO & Orbcomm 11 and 12,StatusActive,45.0,Success
+1336,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jan 22, 1998 02:48 UTC",Space Shuttle Endeavour | STS-89,StatusRetired,450.0,Success
+1341,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA","Tue Dec 23, 1997 19:11 UTC",Pegasus XL/HAPS | Orbcomm A1-A8,StatusActive,40.0,Success
+1347,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Mon Dec 08, 1997 07:16 UTC",Long March 2C | Iridium 42 & 44,StatusActive,30.8,Success
+1350,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Nov 19, 1997 19:46 UTC",Space Shuttle Columbia | STS-87,StatusRetired,450.0,Success
+1358,Northrop,"Stargazer, Wallops Flight Facility, Virginia, USA","Wed Oct 22, 1997 13:13 UTC",Pegasus XL | STEP-4,StatusActive,40.0,Success
+1362,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 29, 1997 10:20 UTC",PSLV-G | IRS-1D,StatusRetired,25.0,Partial Failure
+1364,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 25, 1997 14:34 UTC",Space Shuttle Atlantis | STS-86,StatusRetired,450.0,Success
+1370,CASC,"LC-7, Taiyuan Satellite Launch Center, China","Mon Sep 01, 1997 14:00 UTC",Long March 2C | Iridium mass simulator A&B,StatusActive,30.8,Success
+1371,Northrop,"Stargazer, Vandenberg AFB, California, USA","Fri Aug 29, 1997 15:02 UTC",Pegasus XL | FORTE,StatusActive,40.0,Success
+1377,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Aug 07, 1997 14:41 UTC",Space Shuttle Discovery | STS-85,StatusRetired,450.0,Success
+1378,Northrop,"Stargazer, Base Aerea de Gando, Gran Canaria","Fri Aug 01, 1997 20:20 UTC",Pegasus XL | OrbView-2,StatusActive,40.0,Success
+1382,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jul 01, 1997 18:02 UTC",Space Shuttle Columbia | STS-94,StatusRetired,450.0,Success
+1388,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu May 15, 1997 08:07 UTC",Space Shuttle Atlantis | STS-84,StatusRetired,450.0,Success
+1390,CASC,"LC-2, Xichang Satellite Launch Center, China","Sun May 11, 1997 16:17 UTC",Long March 3A | ChinaSat 6,StatusActive,69.7,Success
+1393,Northrop,"Stargazer, Base Aerea de Gando, Gran Canaria","Mon Apr 21, 1997 11:59 UTC",Pegasus XL | MiniSat & Celestis space burial,StatusActive,40.0,Success
+1396,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 04, 1997 19:20 UTC",Space Shuttle Columbia | STS-83,StatusRetired,450.0,Success
+1397,Lockheed,"SLC-4W, Vandenberg AFB, California, USA","Fri Apr 04, 1997 16:47 UTC",Titan II(23)G | USA-131,StatusRetired,35.0,Success
+1405,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Feb 11, 1997 08:55 UTC",Space Shuttle Discovery | STS-82,StatusRetired,450.0,Success
+1408,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun Jan 12, 1997 09:27 UTC",Space Shuttle Atlantis | STS-81,StatusRetired,450.0,Success
+1413,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sat Dec 07, 1996 11:49 UTC",Space Shuttle Columbia | STS-80,StatusRetired,450.0,Success
+1418,Northrop,"Stargazer, Vandenberg AFB, California, USA","Mon Nov 04, 1996 17:08 UTC",Pegasus XL | HETE & SAC-B,StatusActive,40.0,Failure
+1420,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Sun Oct 20, 1996 07:20 UTC",Long March 2D | FSW-2 No.3,StatusActive,29.75,Success
+1421,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Sep 16, 1996 08:54 UTC",Space Shuttle Atlantis | STS-79,StatusRetired,450.0,Success
+1428,Northrop,"Stargazer, Vandenberg AFB, California, USA","Wed Aug 21, 1996 09:47 UTC",Pegasus XL | FAST,StatusActive,40.0,Success
+1438,Northrop,"Stargazer, Vandenberg AFB, California, USA","Tue Jul 02, 1996 07:48 UTC",Pegasus XL | TOMS,StatusActive,40.0,Success
+1439,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Jun 20, 1996 14:49 UTC",Space Shuttle Columbia | STS-78,StatusRetired,450.0,Success
+1443,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun May 19, 1996 10:30 UTC",Space Shuttle Endeavour | STS-77,StatusRetired,450.0,Success
+1444,Northrop,"Stargazer, Vandenberg AFB, California, USA","Fri May 17, 1996 02:44 UTC",Pegasus | MSTI-3,StatusRetired,40.0,Success
+1454,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Mar 22, 1996 08:13 UTC",Space Shuttle Atlantis | STS-76,StatusRetired,450.0,Success
+1455,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Mar 21, 1996 04:53 UTC",PSLV-G | IRS-P3,StatusRetired,25.0,Success
+1457,Northrop,"Stargazer, Vandenberg AFB, California, USA","Sat Mar 09, 1996 01:53 UTC",Pegasus XL | REX II,StatusActive,40.0,Success
+1459,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Feb 22, 1996 20:18 UTC",Space Shuttle Columbia | STS-75,StatusRetired,450.0,Success
+1468,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Jan 11, 1996 09:41 UTC",Space Shuttle Endeavour | STS-72,StatusRetired,450.0,Success
+1479,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Nov 12, 1995 12:30 UTC",Space Shuttle Atlantis | STS-74,StatusRetired,450.0,Success
+1483,EER,"LP-0A, Wallops Flight Facility, Virginia, USA","Mon Oct 23, 1995 22:03 UTC",Conestoga-1620 | METEOR,StatusRetired,20.0,Failure
+1485,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Oct 20, 1995 13:53 UTC",Space Shuttle Columbia | STS-73,StatusRetired,450.0,Success
+1489,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 07, 1995 15:09 UTC",Space Shuttle Endeavour | STS-69,StatusRetired,450.0,Success
+1499,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Jul 13, 1995 13:41 UTC",Space Shuttle Discovery | STS-70,StatusRetired,450.0,Success
+1503,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jun 27, 1995 19:32 UTC",Space Shuttle Atlantis | STS-71,StatusRetired,450.0,Success
+1504,Northrop,"Stargazer, Vandenberg AFB, California, USA","Thu Jun 22, 1995 19:58 UTC",Pegasus XL | STEP-3,StatusActive,40.0,Failure
+1515,Northrop,"Stargazer, Vandenberg AFB, California, USA","Mon Apr 03, 1995 13:48 UTC",Pegasus | Orbcomm F1 and F2 & OrbView-1,StatusRetired,40.0,Success
+1523,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Mar 02, 1995 06:38 UTC",Space Shuttle Endeavour | STS-67,StatusRetired,450.0,Success
+1524,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Feb 03, 1995 05:22 UTC",Space Shuttle Discovery | STS-63,StatusRetired,450.0,Success
+1537,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Nov 29, 1994 17:02 UTC",Long March 3A | Chinasat-5,StatusActive,69.7,Partial Failure
+1542,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Nov 03, 1994 16:59 UTC",Space Shuttle Atlantis | STS-66,StatusRetired,450.0,Success
+1546,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Sat Oct 15, 1994 05:05 UTC",PSLV-G | IRS-P2,StatusRetired,25.0,Success
+1550,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Sep 30, 1994 11:16 UTC",Space Shuttle Endeavour | STS-68,StatusRetired,450.0,Success
+1552,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Sep 09, 1994 22:22 UTC",Space Shuttle Discovery | STS-64,StatusRetired,450.0,Success
+1554,Northrop,"NB-52B Carrier, Edwards AFB, California, USA","Sat Sep 03, 1994 14:38 UTC",Pegasus | APEX,StatusRetired,40.0,Success
+1568,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Jul 08, 1994 04:43 UTC",Space Shuttle Columbia | STS-65,StatusRetired,450.0,Success
+1569,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Sun Jul 03, 1994 08:00 UTC",Long March 2D | FSW-2 No.2,StatusActive,29.75,Success
+1570,Northrop,"Stargazer, Vandenberg AFB, California, USA","Mon Jun 27, 1994 21:15 UTC",Pegasus XL | STEP-1,StatusActive,40.0,Failure
+1574,Northrop,"NB-52B Carrier, Edwards AFB, California, USA","Thu May 19, 1994 17:03 UTC",Pegasus/HAPS | STEP-2,StatusRetired,40.0,Partial Failure
+1580,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Apr 09, 1994 11:05 UTC",Space Shuttle Endeavour | STS-59,StatusRetired,450.0,Success
+1582,Northrop,"SLC-576E, Vandenberg AFB, California, USA","Sun Mar 13, 1994 22:32 UTC",Minotaur C (Taurus) | STEP Mission 0 & DARPASAT,StatusActive,45.0,Success
+1584,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Mar 04, 1994 13:53 UTC",Space Shuttle Columbia | STS-62,StatusRetired,450.0,Success
+1587,CASC,"LC-2, Xichang Satellite Launch Center, China","Tue Feb 08, 1994 08:34 UTC","Long March 3A | Shijian 4, Kuafu-1 (mass simulator)",StatusActive,69.7,Success
+1590,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Feb 03, 1994 12:10 UTC",Space Shuttle Discovery | STS-60,StatusRetired,450.0,Success
+1591,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA","Tue Jan 25, 1994 16:34 UTC",Titan II(23)G | Clementine,StatusRetired,35.0,Success
+1598,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Dec 02, 1993 09:27 UTC",Space Shuttle Endeavour | STS-61,StatusRetired,450.0,Success
+1605,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Mon Oct 18, 1993 14:53 UTC",Space Shuttle Columbia | STS-58,StatusRetired,450.0,Success
+1606,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Fri Oct 08, 1993 08:00 UTC",Long March 2C | FSW-1 No.5,StatusActive,30.8,Success
+1607,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA","Tue Oct 05, 1993 17:56 UTC",Titan II(23)G | Landsat 6,StatusRetired,35.0,Failure
+1609,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 20, 1993 05:12 UTC",PSLV-G | IRS-P1,StatusRetired,25.0,Failure
+1612,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun Sep 12, 1993 11:45 UTC",Space Shuttle Discovery | STS-51,StatusRetired,450.0,Success
+1626,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Mon Jun 21, 1993 13:07 UTC",Space Shuttle Endeavour | STS-57,StatusRetired,450.0,Success
+1633,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Apr 26, 1993 14:50 UTC",Space Shuttle Columbia | STS-55,StatusRetired,450.0,Success
+1634,Northrop,"NB-52B Carrier, Edwards AFB, California, USA","Sun Apr 25, 1993 13:56 UTC",Pegasus | ALEXIS,StatusRetired,40.0,Success
+1638,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Apr 08, 1993 05:29 UTC",Space Shuttle Discovery | STS-56,StatusRetired,450.0,Success
+1648,Northrop,"NB-52B Carrier, Cape Canaveral AFS, Florida, USA","Tue Feb 09, 1993 14:30 UTC",Pegasus | SCD-1,StatusRetired,40.0,Success
+1652,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Jan 13, 1993 13:59 UTC",Space Shuttle Endeavour | STS-54,StatusRetired,450.0,Success
+1660,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Dec 02, 1992 13:24 UTC",Space Shuttle Discovery | STS-53,StatusRetired,450.0,Success
+1671,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Oct 22, 1992 17:09 UTC",Space Shuttle Columbia | STS-52,StatusRetired,450.0,Success
+1675,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Tue Oct 06, 1992 06:20 UTC","Long March 2C | FSW-1 No.4, Freja",StatusActive,30.8,Success
+1676,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 25, 1992 17:05 UTC",Commercial Titan III | Mars Observer,StatusRetired,136.6,Success
+1677,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sat Sep 12, 1992 14:23 UTC",Space Shuttle Endeavour | STS-47,StatusRetired,450.0,Success
+1684,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Sun Aug 09, 1992 08:00 UTC",Long March 2D | FSW-2 No.1,StatusActive,29.75,Success
+1686,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Jul 31, 1992 13:56 UTC",Space Shuttle Atlantis | STS-46,StatusRetired,450.0,Success
+1695,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jun 25, 1992 16:12 UTC",Space Shuttle Columbia | STS-50,StatusRetired,450.0,Success
+1700,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu May 07, 1992 23:40 UTC",Space Shuttle Endeavour | STS-49,StatusRetired,450.0,Success
+1701,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA","Sat Apr 25, 1992 08:53 UTC",Titan II(23)G | USA-81,StatusRetired,35.0,Success
+1705,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Mar 24, 1992 13:13 UTC",Space Shuttle Atlantis | STS-45,StatusRetired,450.0,Success
+1716,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jan 22, 1992 14:52 UTC",Space Shuttle Discovery | STS-42,StatusRetired,450.0,Success
+1724,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Nov 24, 1991 23:44 UTC",Space Shuttle Atlantis | STS-44,StatusRetired,450.0,Success
+1732,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 12, 1991 23:11 UTC",Space Shuttle Discovery | STS-48,StatusRetired,450.0,Success
+1741,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 02, 1991 15:02 UTC",Space Shuttle Atlantis | STS-43,StatusRetired,450.0,Success
+1743,Northrop,"NB-52B Carrier, Edwards AFB, California, USA","Sun Jul 21, 1991 17:33 UTC",Pegasus/HAPS | 7 Microsats,StatusRetired,40.0,Partial Failure
+1750,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Jun 05, 1991 13:24 UTC",Space Shuttle Columbia | STS-40,StatusRetired,450.0,Success
+1755,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Apr 28, 1991 11:33 UTC",Space Shuttle Discovery | STS-39,StatusRetired,450.0,Success
+1760,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Apr 05, 1991 14:22 UTC",Space Shuttle Atlantis | STS-37,StatusRetired,450.0,Success
+1779,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun Dec 02, 1990 06:49 UTC",Space Shuttle Columbia | STS-35,StatusRetired,450.0,Success
+1787,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 15, 1990 23:48 UTC",Space Shuttle Atlantis | STS-38,StatusRetired,450.0,Success
+1793,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sat Oct 06, 1990 11:47 UTC",Space Shuttle Discovery | STS-41,StatusRetired,450.0,Success
+1794,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Fri Oct 05, 1990 06:14 UTC",Long March 2C | FSW-1 No.3,StatusActive,30.8,Success
+1815,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Jun 23, 1990 11:19 UTC",Commercial Titan III | Intelsat 604,StatusRetired,136.6,Success
+1825,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Tue Apr 24, 1990 12:33 UTC",Space Shuttle Discovery | STS-31,StatusRetired,450.0,Success
+1831,Northrop,"NB-52B Carrier, Edwards AFB, California, USA","Thu Apr 05, 1990 19:10 UTC",Pegasus | Pegsat & NavySat,StatusRetired,40.0,Success
+1837,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Mar 14, 1990 11:52 UTC",Commercial Titan III | Intelsat 603,StatusRetired,136.6,Failure
+1838,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Feb 28, 1990 07:50 UTC",Space Shuttle Atlantis | STS-36,StatusRetired,450.0,Success
+1854,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jan 09, 1990 12:35 UTC",Space Shuttle Columbia | STS-32,StatusRetired,450.0,Success
+1855,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jan 01, 1990 00:07 UTC",Commercial Titan III | Skynet 4A & JCSAT-2,StatusRetired,136.6,Success
+1861,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu Nov 23, 1989 00:23 UTC",Space Shuttle Discovery | STS-33R,StatusRetired,450.0,Success
+1864,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Oct 18, 1989 16:53 UTC",Space Shuttle Atlantis | STS-34R,StatusRetired,450.0,Success
+1870,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA","Wed Sep 06, 1989 01:48 UTC",Titan II(23)G | USA-45,StatusRetired,35.0,Success
+1877,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Tue Aug 08, 1989 12:37 UTC",Space Shuttle Columbia | STS-28R,StatusRetired,450.0,Success
+1891,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Thu May 04, 1989 18:46 UTC",Space Shuttle Atlantis | STS-30R,StatusRetired,450.0,Success
+1896,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Mon Mar 13, 1989 14:57 UTC",Space Shuttle Discovery | STS-29R,StatusRetired,450.0,Success
+1913,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Dec 02, 1988 14:30 UTC",Space Shuttle Atlantis | STS-27R,StatusRetired,450.0,Success
+1916,RVSN USSR,"Site 110/37, Baikonur Cosmodrome, Kazakhstan","Tue Nov 15, 1988 03:00 UTC",Energiya/Buran | Buran,StatusRetired,"5,000.0",Success
+1922,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 29, 1988 15:37 UTC",Space Shuttle Discovery | STS-26R,StatusRetired,450.0,Success
+1929,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA","Mon Sep 05, 1988 09:25 UTC",Titan II(23)G | USA-32,StatusRetired,35.0,Success
+1932,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Fri Aug 05, 1988 07:29 UTC",Long March 2C | FSW-1 No.2,StatusActive,30.8,Success
+1980,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Wed Sep 09, 1987 07:15 UTC",Long March 2C | FSW-1 No.1,StatusActive,30.8,Success
+1986,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Wed Aug 05, 1987 06:39 UTC",Long March 2C | FSW-0 No.9,StatusActive,30.8,Success
+2000,RVSN USSR,"Site 250, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1987 17:30 UTC",Energiya/Polyus | Polyus Space Station,StatusRetired,"5,000.0",Success
+2041,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Mon Oct 06, 1986 05:40 UTC",Long March 2C | FSW-0 No.8,StatusActive,30.8,Success
+2079,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jan 28, 1986 16:38 UTC",Space Shuttle Challenger | STS-51-L,StatusRetired,450.0,Failure
+2083,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jan 12, 1986 11:55 UTC",Space Shuttle Columbia | STS-61-C,StatusRetired,450.0,Success
+2091,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Nov 27, 1985 00:29 UTC",Space Shuttle Atlantis | STS-61-B,StatusRetired,450.0,Success
+2094,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Nov 06, 1985 17:00 UTC",Space Shuttle Challenger | STS-61-A,StatusRetired,450.0,Success
+2101,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Mon Oct 21, 1985 05:04 UTC",Long March 2C | FSW-0 No.7,StatusActive,30.8,Success
+2104,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Oct 03, 1985 15:15 UTC",Space Shuttle Atlantis | STS-51-J,StatusRetired,450.0,Success
+2115,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Aug 27, 1985 10:58 UTC",Space Shuttle Discovery | STS-51-I,StatusRetired,450.0,Success
+2121,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jul 25, 1985 21:00 UTC",Space Shuttle Challenger | STS-51-F,StatusRetired,450.0,Success
+2129,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Jun 17, 1985 11:33 UTC",Space Shuttle Discovery | STS-51-G,StatusRetired,450.0,Success
+2136,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 06, 1985 16:02 UTC",Space Shuttle Challenger | STS-51-B,StatusRetired,450.0,Success
+2141,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 12, 1985 13:59 UTC",Space Shuttle Discovery | STS-51-D,StatusRetired,450.0,Success
+2153,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jan 24, 1985 19:50 UTC",Space Shuttle Discovery | STS-51-C,StatusRetired,450.0,Success
+2168,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 08, 1984 12:15 UTC",Space Shuttle Discovery | STS-51-A,StatusRetired,450.0,Success
+2172,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Oct 05, 1984 11:03 UTC",Space Shuttle Challenger | STS-41-G,StatusRetired,450.0,Success
+2177,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Wed Sep 12, 1984 05:44 UTC",Long March 2C | FSW-0 No.6,StatusActive,30.8,Success
+2180,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Aug 30, 1984 12:41 UTC",Space Shuttle Discovery | STS-41-D,StatusRetired,450.0,Success
+2210,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Apr 06, 1984 13:58 UTC",Space Shuttle Challenger | STS-41-C,StatusRetired,450.0,Success
+2220,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Feb 03, 1984 13:00 UTC",Space Shuttle Challenger | STS-41-B,StatusRetired,450.0,Success
+2233,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Nov 28, 1983 16:00 UTC",Space Shuttle Columbia | STS-9,StatusRetired,450.0,Success
+2246,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Sep 05, 1983 07:40 UTC",Space Shuttle Challenger | STS-8,StatusRetired,450.0,Success
+2249,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Fri Aug 19, 1983 06:00 UTC",Long March 2C | FSW-0 No.5,StatusActive,30.8,Success
+2261,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Jun 18, 1983 11:33 UTC",Space Shuttle Challenger | STS-7,StatusRetired,450.0,Success
+2278,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Apr 04, 1983 18:30 UTC",Space Shuttle Challenger | STS-6,StatusRetired,450.0,Success
+2300,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 11, 1982 12:19 UTC",Space Shuttle Columbia | STS-5,StatusRetired,450.0,Success
+2309,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Thu Sep 09, 1982 07:19 UTC",Long March 2C | FSW-0 No.4,StatusActive,30.8,Success
+2323,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jun 27, 1982 16:09 UTC",Space Shuttle Columbia | STS-4,StatusRetired,450.0,Success
+2348,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Mar 22, 1982 16:00 UTC",Space Shuttle Columbia | STS-3,StatusRetired,450.0,Success
+2371,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 12, 1981 15:09 UTC",Space Shuttle Columbia | STS-2,StatusRetired,450.0,Success
+2408,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Apr 12, 1981 12:00 UTC",Space Shuttle Columbia | STS-1,StatusRetired,450.0,Success
+3149,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 14, 1973 17:30 UTC",Saturn V | Skylab 1,StatusRetired,"1,160.0",Success
+3180,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Dec 19, 1972 19:24 UTC",Saturn V | Apollo 17,StatusRetired,"1,160.0",Success
+3243,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Apr 16, 1972 17:54 UTC",Saturn V | Apollo 16,StatusRetired,"1,160.0",Success
+3328,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Jul 26, 1971 13:34 UTC",Saturn V | Apollo 15,StatusRetired,"1,160.0",Success
+3384,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jan 31, 1971 21:03 UTC",Saturn V | Apollo 14,StatusRetired,"1,160.0",Success
+3475,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Apr 11, 1970 19:13 UTC",Saturn V | Apollo 13,StatusRetired,"1,160.0",Success
+3511,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 14, 1969 16:22 UTC",Saturn V | Apollo 12,StatusRetired,"1,160.0",Success
+3545,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 16, 1969 13:32 UTC",Saturn V | Apollo 11,StatusRetired,"1,160.0",Success
+3554,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Jun 03, 1969 16:49 UTC",Titan IIIB | OPS 1077,StatusRetired,59.0,Success
+3560,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun May 18, 1969 16:49 UTC",Saturn V | Apollo 10,StatusRetired,"1,160.0",Success
+3563,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Apr 15, 1969 17:30 UTC",Titan IIIB | OPS 5310,StatusRetired,59.0,Success
+3583,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Mar 04, 1969 19:30 UTC",Titan IIIB | OPS 4248,StatusRetired,59.0,Success
+3584,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Mar 03, 1969 16:00 UTC",Saturn V | Apollo 9,StatusRetired,"1,160.0",Success
+3595,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Jan 22, 1969 19:10 UTC",Titan IIIB | OPS 7585,StatusRetired,59.0,Success
+3603,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Dec 21, 1968 12:51 UTC",Saturn V | Apollo 8,StatusRetired,"1,160.0",Success
+3609,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Dec 04, 1968 19:23 UTC",Titan IIIB | OPS 6518,StatusRetired,59.0,Success
+3618,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Nov 06, 1968 19:10 UTC",Titan IIIB | OPS 5296,StatusRetired,59.0,Success
+3645,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Aug 06, 1968 18:30 UTC",Titan IIIB | OPS 5247,StatusRetired,59.0,Success
+3646,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Aug 06, 1968 16:33 UTC",Titan IIIB | OPS 5187,StatusRetired,59.0,Success
+3662,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Jun 05, 1968 17:31 UTC",Titan IIIB | OPS 5138,StatusRetired,59.0,Success
+3677,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Apr 17, 1968 17:00 UTC",Titan IIIB | OPS 5105,StatusRetired,59.0,Success
+3683,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 04, 1968 12:00 UTC",Saturn V | Apollo 6,StatusRetired,"1,160.0",Partial Failure
+3690,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Mar 13, 1968 19:55 UTC",Titan IIIB | OPS 5057,StatusRetired,59.0,Success
+3702,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Thu Jan 18, 1968 19:04 UTC",Titan IIIB | OPS 5028,StatusRetired,59.0,Success
+3709,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Dec 05, 1967 18:45 UTC",Titan IIIB | OPS 5000,StatusRetired,59.0,Success
+3716,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 09, 1967 12:00 UTC",Saturn V | Apollo 4,StatusRetired,"1,160.0",Success
+3725,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Oct 25, 1967 19:15 UTC",Titan IIIB | OPS 4995,StatusRetired,59.0,Success
+3737,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Sep 19, 1967 18:28 UTC",Titan IIIB | OPS 4941,StatusRetired,59.0,Success
+3746,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Aug 16, 1967 17:02 UTC",Titan IIIB | OPS 4866,StatusRetired,59.0,Success
+3758,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Jun 20, 1967 16:19 UTC",Titan IIIB | OPS 4282,StatusRetired,59.0,Partial Failure
+3779,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Apr 26, 1967",Titan IIIB | OPS 4243,StatusRetired,59.0,Failure
+3799,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Fri Feb 24, 1967 19:55 UTC",Titan IIIB | OPS 4204,StatusRetired,59.0,Success
+3815,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Dec 14, 1966 18:14 UTC",Titan IIIB | OPS 8968,StatusRetired,59.0,Success
+3839,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Sep 28, 1966 19:12 UTC",Titan IIIB | OPS 4096,StatusRetired,59.0,Success
+3855,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Fri Jul 29, 1966 18:43 UTC",Titan IIIB | KH-8,StatusRetired,59.0,Success
+3971,US Air Force,"SLC-20, Cape Canaveral AFS, Florida, USA","Thu May 06, 1965 15:00 UTC",Titan IIIA | LES 2 & LCS 1,StatusRetired,63.23,Success
+3993,US Air Force,"SLC-20, Cape Canaveral AFS, Florida, USA","Thu Feb 11, 1965 15:19 UTC",Titan IIIA | LES 1,StatusRetired,63.23,Success
+4000,US Air Force,"SLC-20, Cape Canaveral AFS, Florida, USA","Thu Dec 10, 1964 16:52 UTC",Titan IIIA | Transtage 2,StatusRetired,63.23,Success
+4020,US Air Force,"SLC-20, Cape Canaveral AFS, Florida, USA","Tue Sep 01, 1964 15:00 UTC",Titan IIIA | Transtage 1,StatusRetired,63.23,Failure
